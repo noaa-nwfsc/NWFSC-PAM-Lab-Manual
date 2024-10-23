@@ -21,10 +21,10 @@ website:
     align: center
     tools: 
       - icon: globe
-        href: https://nmfs-ost.github.io/PAM_National_NMFS_Network
+        href: https://www.fisheries.noaa.gov/west-coast/science-data/southern-resident-killer-whale-research-pacific-northwest
         text: "NMFS National Passive Acoustic Monitoring Network"
       - icon: github
-        href: https://github.com/nmfs-ost/PAM_template_lab_manual
+        href: https://github.com/noaa-nwfsc
         text: "NMFS PAM SI Lab Manual Template"
 
     style: "docked"
