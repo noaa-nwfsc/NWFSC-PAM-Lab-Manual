@@ -2,6 +2,22 @@
 title: Hardware
 ---
 
+## Towed Arrays
+
+POC, Description, Project incl years
+
+## Moored Recorders
+
+PALs- POC, description, Project incl years
+
+EARs- POC, description, Project incl years
+
+SoundTraps- POC, description, Project incl years
+
+## Dtags
+
+POC, description, Project incl years
+
 A hardware section is required and should include the following information;
 
 -   Information on your recorders
