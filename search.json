@@ -107,7 +107,40 @@
     "href": "content/Hardware.html",
     "title": "Hardware",
     "section": "",
-    "text": "A hardware section is required and should include the following information;\n\nInformation on your recorders\nArray configurations and diagrams\nPlatform information (towed, moored, drifting, etc.)\nOther sensors included (GPS devices, depth senors, etc.)\n\nThis will be variable for each center and may change from project to project. You should list all hardware, present and past.\nYou can also link to a separate hardware repository if needed (SAEL example)\nThis can be a section with subpages or a qmd",
+    "text": "POC, Description, Project incl years",
+    "crumbs": [
+      "Lab Management",
+      "Hardware"
+    ]
+  },
+  {
+    "objectID": "content/Hardware.html#towed-arrays",
+    "href": "content/Hardware.html#towed-arrays",
+    "title": "Hardware",
+    "section": "",
+    "text": "POC, Description, Project incl years",
+    "crumbs": [
+      "Lab Management",
+      "Hardware"
+    ]
+  },
+  {
+    "objectID": "content/Hardware.html#moored-recorders",
+    "href": "content/Hardware.html#moored-recorders",
+    "title": "Hardware",
+    "section": "Moored Recorders",
+    "text": "Moored Recorders\nPALs- POC, description, Project incl years\nEARs- POC, description, Project incl years\nSoundTraps- POC, description, Project incl years",
+    "crumbs": [
+      "Lab Management",
+      "Hardware"
+    ]
+  },
+  {
+    "objectID": "content/Hardware.html#dtags",
+    "href": "content/Hardware.html#dtags",
+    "title": "Hardware",
+    "section": "Dtags",
+    "text": "Dtags\nPOC, description, Project incl years\nA hardware section is required and should include the following information;\n\nInformation on your recorders\nArray configurations and diagrams\nPlatform information (towed, moored, drifting, etc.)\nOther sensors included (GPS devices, depth senors, etc.)\n\nThis will be variable for each center and may change from project to project. You should list all hardware, present and past.\nYou can also link to a separate hardware repository if needed (SAEL example)\nThis can be a section with subpages or a qmd",
     "crumbs": [
       "Lab Management",
       "Hardware"
