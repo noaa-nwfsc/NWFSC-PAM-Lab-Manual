@@ -1,5 +1,5 @@
 ---
-title: "Home"
+title: "Marine Mammal Ecology Team, NWFSC"
 subtitle: "Lab manual for the NWFSC Marine Mammal Passive Acoustic Monitoring"
 page-layout: full
 ---
