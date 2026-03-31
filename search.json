@@ -212,59 +212,49 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Marine Mammal Ecology Team, NWFSC",
+    "title": "Marine Mammal Passive Acoustic Monitoring, NWFSC",
     "section": "",
-    "text": "This manual will serve as the primary storage location for all lab related information, including methods and data management, and will be a single access resource to support coordination across the science center.",
+    "text": "The Marine Mammal Ecology Team conducts research using passive acoustic monitoring to support NOAA’s management needs. We are part of the Conservation Biology Division at NOAA’s Northwest Fisheries Science Center in Seattle, Washington.\nThis lab manual serves as the handbook for the information to support our science.\n\n\n\n\nExamples of different passive acoustic platforms used by NOAA",
     "crumbs": [
       "Home"
     ]
   },
   {
-    "objectID": "index.html#nwfsc-pam-lab-manual",
-    "href": "index.html#nwfsc-pam-lab-manual",
-    "title": "Marine Mammal Ecology Team, NWFSC",
-    "section": "",
-    "text": "This manual will serve as the primary storage location for all lab related information, including methods and data management, and will be a single access resource to support coordination across the science center.",
+    "objectID": "index.html#team-members",
+    "href": "index.html#team-members",
+    "title": "Marine Mammal Passive Acoustic Monitoring, NWFSC",
+    "section": "Team Members",
+    "text": "Team Members\nShannon Rankin, SAEL Team Leader\nCory Hom-Weaver, Acoustician and Fieldwork Manager\nKourtney Burger, Acoustician and Data Manager",
     "crumbs": [
       "Home"
     ]
   },
   {
-    "objectID": "index.html#required-pages",
-    "href": "index.html#required-pages",
-    "title": "Marine Mammal Ecology Team, NWFSC",
-    "section": "Required Pages",
-    "text": "Required Pages\nIn order to keep consistency between science centers, the following sections/pages will be required in all lab manuals. These will be directly linked to the National PAM Repository. The links will direct you to the associated template page with more directions on what to include.\n\nHome Page (this page): Edit this page to include an introduction to your lab, projects you are working on, etc.\nLab Management\nData Management\nHardware\nSoftware\nAnalysis\nReporting",
+    "objectID": "index.html#other-sael-repositories",
+    "href": "index.html#other-sael-repositories",
+    "title": "Marine Mammal Passive Acoustic Monitoring, NWFSC",
+    "section": "Other SAEL Repositories",
+    "text": "Other SAEL Repositories\nSee our GitHub Repos page for links to all of our lab’s individual repositories",
     "crumbs": [
       "Home"
     ]
   },
   {
-    "objectID": "index.html#optional-pages",
-    "href": "index.html#optional-pages",
-    "title": "Marine Mammal Ecology Team, NWFSC",
-    "section": "Optional Pages",
-    "text": "Optional Pages\nHere are some more ideas for pages to include in your lab manual. These are optional and will not be linked to the main National PAM Repo, but they may be helpful for your team\n\nShared values/lab culture\nOnboarding\nOffboarding\nField Methods\nOpen Science\nPublications/Presentations\nResources",
+    "objectID": "index.html#location",
+    "href": "index.html#location",
+    "title": "Marine Mammal Passive Acoustic Monitoring, NWFSC",
+    "section": "Location",
+    "text": "Location\nShipping Address: DOC/NOAA - SWFSC, 8901 La Jolla Shores Drive, La Jolla, CA 92037",
     "crumbs": [
       "Home"
     ]
   },
   {
-    "objectID": "index.html#how-to-use-this-template",
-    "href": "index.html#how-to-use-this-template",
-    "title": "Marine Mammal Ecology Team, NWFSC",
-    "section": "How To Use This Template",
-    "text": "How To Use This Template\nThis template will create a Quarto website that each lab can copy and edit with their own lab information. Follow the steps below to copy this template to your lab’s GitHub\n\nOpen this repository on GitHub\nClick on the ‘Use this template’ button in the top right, select ‘Create new repository’\n\nEdit repository settings\n\nSelect the ‘Include all branches’ option\nSelect your lab organization or yourself as the owner and set the repository name to ‘Lab name Lab Manual’\nMake description “Lab manual for ‘insert lab name and FMC’”\nMake the repo public\n\n\nClick create repository\nTurn on GitHub pages under Settings-&gt;Pages. You will set pages to be made from the gh-pages branch and root directory\n\nUpdate ‘Actions’ settings\n\nUnder Settings -&gt; Actions -&gt; General -&gt; Actions permissions select ‘Allow all actions and reusable workflows’. Select save\n\nUnder Settings -&gt; Actions -&gt; General -&gt; Workflow permissions select ‘Read and write permissions’\n\n\n\n\n\n\n\nImportantNote: Both of these settings may already be selected but you have to click save for both\n\n\n\n\n\n\n\nReturn to the main page of the repo to edit your website\n\nClick on ‘Code’ in the top left\nClick on the settings button next to the ‘About’ section on the right side of the repository\nSelect ‘Use your GitHub Pages website’. This should autopopulate the website\nSelect ‘Save Changes’\n\n\nYour lab manual is now created! Go here for more directions on how to start editing you manual using GitHub Desktop and R Studio (start at step 4)",
-    "crumbs": [
-      "Home"
-    ]
-  },
-  {
-    "objectID": "index.html#example-manuals",
-    "href": "index.html#example-manuals",
-    "title": "Marine Mammal Ecology Team, NWFSC",
-    "section": "Example Manuals",
-    "text": "Example Manuals\nHere are two lab manuals to pull inspiration from\n\nSWFSC Southwest Acoustic Ecology Lab Manual\nFaylab Manual\nSWFSC Glider Lab Manual",
+    "objectID": "index.html#additional-nmfs-pam-lab-manuals",
+    "href": "index.html#additional-nmfs-pam-lab-manuals",
+    "title": "Marine Mammal Passive Acoustic Monitoring, NWFSC",
+    "section": "Additional NMFS PAM Lab Manuals",
+    "text": "Additional NMFS PAM Lab Manuals\n\nPIFSC: Pacific Islands Fisheries\nNWFSC: Northwest Fisheries\nAFSC: Alaska Fisheries\nSEFSC: Southeast Fisheries\nNEFSC: Northeast Fisheries\nNational PAM Network",
     "crumbs": [
       "Home"
     ]
