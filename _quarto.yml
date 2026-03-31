@@ -50,8 +50,10 @@ website:
           - content/AnalysisMethods.qmd
       - href: content/Reporting.qmd
         text: Reporting
-      - section: PublicationsPresentations.qmd
-      - section: media.qmd
+      - href: PublicationsPresentations.qmd
+        text: Publications
+      - href: media.qmd
+        text: Media and Resources
       - section: "NMFS Open Science Directions"
         contents:
           - content/NMFS_OpenSciDirections/Intro.qmd
