@@ -1,9 +1,19 @@
 ---
-title: Lab Management
+title: General Lab Safety
 ---
 
-A lab management section is required and should include the following information;
+## Safety Resources
 
--   Safety
--   Inventory
--   Hardware
+There are many resources on the [HomePort](https://sites.google.com/noaa.gov/nwfschomeport/home?authuser=0). Some examples include the latest information on COVID-19, the NOAA Emergency Notification System, and the NOAA Safety Incident/Accident reporting home page. If you are working onsite (Seattle) you should familiarize yourself with these links along with how to report an incident if one occurs.
+
+## Chemical Inventory
+
+-   Currently MMET PAM only possesses commercially available (over the counter) products and these are not required to be a part of the chemical inventory.
+
+    -   As such, we do not currently have a chemical inventory (updated March 2026).
+
+## Organization
+
+-   Keep lab tidy and clean. If you start on a project and intend to keep working on it over a few days (i.e. building equipment) please clean up after you have completed work.
+
+-   If you notice that something is running low please contact Marla Holt or Candice Emmons so that they may order more supplies.

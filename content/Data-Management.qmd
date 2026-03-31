@@ -1,0 +1,22 @@
+---
+title: Data Management
+---
+
+In this section you will find information regarding the following topics:
+
+-   Data Archive Methods
+    -   [Google Cloud ](https://sael-swfsc.github.io/SAEL-lab-manual/content/Data-Archive.html)
+    
+-   Species reference guide for the Pacific Northwest
+    -   [SAEL Example](https://sael-swfsc.github.io/SAEL-lab-manual/content/Data-SpeciesAndCallTypes.html)
+    
+-   Media
+    -   [SAEL Example](https://sael-swfsc.github.io/SAEL-lab-manual/content/media.html)
+
+
+
+
+
+
+
+
