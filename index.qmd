@@ -20,25 +20,24 @@ This lab manual serves as the handbook for the information to support our scienc
 
 ## Team Members
 
-[Shannon Rankin](https://www.fisheries.noaa.gov/contact/shannon-rankin), SAEL Team Leader
+[Brad Hanson](https://www.fisheries.noaa.gov/contact/brad-hanson-phd), MMET Team Leader
 
-[Cory Hom-Weaver](https://www.fisheries.noaa.gov/contact/cory-hom-weaver), Acoustician and Fieldwork Manager
+[Candice Emmons](https://www.fisheries.noaa.gov/contact/candice-emmons), Research fish Biologist
 
-[Kourtney Burger](https://www.fisheries.noaa.gov/contact/kourtney-burger), Acoustician and Data Manager
+[Marla Holt](https://www.fisheries.noaa.gov/contact/marla-holt-phd), Research Wildlife Biologist
 
-## Other SAEL Repositories
+Jennifer Tennessen, Senior Research Scientist
 
-See our [GitHub Repos page](https://sael-swfsc.github.io/SAEL-lab-manual/content/Data-Github.html) for links to all of our lab's individual repositories
+Arial Brewer, Acoustician and Data Manager
 
-## Location
 
-**Shipping Address:** DOC/NOAA - SWFSC, 8901 La Jolla Shores Drive, La Jolla, CA 92037
+
 
 ## Additional NMFS PAM Lab Manuals
 
 -   [PIFSC: Pacific Islands Fisheries](https://pifsc-protected-species-division.github.io/CRP_PAM_Manual/)
 
--   [NWFSC: Northwest Fisheries](https://noaa-nwfsc.github.io/NWFSC-PAM-Lab-Manual/){target="_blank"}
+-   [SWFSC: Southwest Fisheries](https://pifsc-protected-species-division.github.io/CRP_PAM_Manual/))
 
 -   [AFSC: Alaska Fisheries](https://noaa-afsc.github.io/AFSC-MML-PAM-Lab-Manual/){target="_blank"}
 
