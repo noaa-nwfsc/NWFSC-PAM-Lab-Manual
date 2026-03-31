@@ -34,7 +34,7 @@ website:
       - href: index.qmd
         text: Home
       - section: content/LabManagement.qmd
-        text:Lab Management 
+        text: Lab Management 
       - section: "Data Management"
         contents:
           - content/Data-Archive-GCP.qmd
