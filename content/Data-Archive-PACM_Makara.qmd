@@ -16,10 +16,6 @@ WORK IN PROGRESS - [temporary methods for archiving to Makara can be found here]
 
 ### PACM
 
-::: callout-note
-These methods are no longer in use and may be outdated. Please use MAKARA methods for future projects
-:::
-
 Detailed methods for archiving data to PACM can be found in this [ADRIFT-PACM GitHub repository](https://github.com/Kourtney-Burger/ADRIFT-PACM).
 
 
