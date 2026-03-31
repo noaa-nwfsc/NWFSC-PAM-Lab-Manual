@@ -35,11 +35,11 @@ website:
         text: Home
       - section: content/LabManagement.qmd
         text: Lab Management 
-      # - section: "Data Management"
-      #   contents:
-      #     - content/Data-Archive-GCP.qmd
-      #     - content/Data-Archive-PACM_Makara.qmd
-      #     - content/Data-Species.qmd
+      - section: "Data Management"
+        contents:
+          - content/Data-Archive-GCP.qmd
+          - content/Data-Archive-PACM_Makara.qmd
+          - content/Data-Species.qmd
       # - href: content/FieldMethods.qmd
       #   text: "Field Methods"
       # - href: content/Hardware.qmd
