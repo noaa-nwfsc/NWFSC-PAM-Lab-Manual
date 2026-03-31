@@ -7,7 +7,7 @@ page-layout: full
 
 
 ::::: columns
-::: {.column width="40%"}
+::: {.column width="60%"}
 The [Marine Mammal Ecology Team](https://www.fisheries.noaa.gov/west-coast/science-data/marine-mammal-ecology-pacific-northwest) conducts research using passive acoustic monitoring to support NOAA's management needs. We are part of the Conservation Biology Division at [NOAA's Northwest Fisheries Science Center](https://www.fisheries.noaa.gov/about/northwest-fisheries-science-center) in Seattle, Washington.
 
 This lab manual serves as the handbook for the information to support our science.
