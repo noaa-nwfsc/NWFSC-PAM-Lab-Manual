@@ -14,7 +14,7 @@ This lab manual serves as the handbook for the information to support our scienc
 :::
 
 ::: {.column width="40%"}
-![Examples of different passive acoustic platforms used by NOAA](content/images/Shimada_whales.jpg){fig-alt="" fig-align="center"}
+![Southern resident killer whales with R/V Shimada](content/images/Shimada_whales.png){fig-alt="" fig-align="center"}
 :::
 :::::
 
