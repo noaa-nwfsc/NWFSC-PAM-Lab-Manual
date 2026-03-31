@@ -51,21 +51,33 @@
     "href": "content/Data-Species.html",
     "title": "Species Information",
     "section": "",
-    "text": "Southern resident killer whale"
+    "text": "Southern resident killer whale",
+    "crumbs": [
+      "Data Management",
+      "Species Information"
+    ]
   },
   {
     "objectID": "content/Data-Species.html#focus-species-project-information",
     "href": "content/Data-Species.html#focus-species-project-information",
     "title": "Species Information",
     "section": "",
-    "text": "Southern resident killer whale"
+    "text": "Southern resident killer whale",
+    "crumbs": [
+      "Data Management",
+      "Species Information"
+    ]
   },
   {
     "objectID": "content/Data-Species.html#other-species-pacific-northwest-region",
     "href": "content/Data-Species.html#other-species-pacific-northwest-region",
     "title": "Species Information",
     "section": "Other Species (Pacific Northwest Region)",
-    "text": "Other Species (Pacific Northwest Region)\n\n\n\n\n\n\n\n\n\nCommon Name\nScientific Name\n\n\n\n\n\n\nKiller whale\nOrcinus orca\n\n\n\n\nSperm whale\nPhyseter macrocephalus\n\n\n\n\nHumpback whale\nMegaptera novaeangliae\n\n\n\n\nGray whale\nEschrichtius robustus"
+    "text": "Other Species (Pacific Northwest Region)\n\n\n\n\n\n\n\n\n\nCommon Name\nScientific Name\n\n\n\n\n\n\nKiller whale\nOrcinus orca\n\n\n\n\nSperm whale\nPhyseter macrocephalus\n\n\n\n\nHumpback whale\nMegaptera novaeangliae\n\n\n\n\nGray whale\nEschrichtius robustus",
+    "crumbs": [
+      "Data Management",
+      "Species Information"
+    ]
   },
   {
     "objectID": "content/AnalysisMethods.html",
@@ -100,21 +112,33 @@
     "href": "content/Data-Archive-PACM_Makara.html",
     "title": "PACM/Makara",
     "section": "",
-    "text": "All Salish Sea and Coastal marine mammal detection data are archived and available on the Passive Acoustic Cetacean Map (PACM)."
+    "text": "All Salish Sea and Coastal marine mammal detection data are archived and available on the Passive Acoustic Cetacean Map (PACM).",
+    "crumbs": [
+      "Data Management",
+      "PACM/Makara"
+    ]
   },
   {
     "objectID": "content/Data-Archive-PACM_Makara.html#accessing-data",
     "href": "content/Data-Archive-PACM_Makara.html#accessing-data",
     "title": "PACM/Makara",
     "section": "",
-    "text": "All Salish Sea and Coastal marine mammal detection data are archived and available on the Passive Acoustic Cetacean Map (PACM)."
+    "text": "All Salish Sea and Coastal marine mammal detection data are archived and available on the Passive Acoustic Cetacean Map (PACM).",
+    "crumbs": [
+      "Data Management",
+      "PACM/Makara"
+    ]
   },
   {
     "objectID": "content/Data-Archive-PACM_Makara.html#archiving-data",
     "href": "content/Data-Archive-PACM_Makara.html#archiving-data",
     "title": "PACM/Makara",
     "section": "Archiving Data",
-    "text": "Archiving Data\n\nMAKARA\nWORK IN PROGRESS - temporary methods for archiving to Makara can be found here. Waiting for next Makara release\n\n\nPACM\n\n\n\n\n\n\nNote\n\n\n\nThese methods are no longer in use and may be outdated. Please use MAKARA methods for future projects\n\n\nDetailed methods for archiving data to PACM can be found in this ADRIFT-PACM GitHub repository."
+    "text": "Archiving Data\n\nMAKARA\nWORK IN PROGRESS - temporary methods for archiving to Makara can be found here. Waiting for next Makara release\n\n\nPACM\n\n\n\n\n\n\nNote\n\n\n\nThese methods are no longer in use and may be outdated. Please use MAKARA methods for future projects\n\n\nDetailed methods for archiving data to PACM can be found in this ADRIFT-PACM GitHub repository.",
+    "crumbs": [
+      "Data Management",
+      "PACM/Makara"
+    ]
   },
   {
     "objectID": "content/media.html",
@@ -396,7 +420,11 @@
     "href": "content/Data-Archive-GCP.html#nwfsc-gcp-buckets",
     "title": "Google Cloud",
     "section": "NWFSC GCP Buckets:",
-    "text": "NWFSC GCP Buckets:\n\nnwfsc-1 : Salish Sea raw audio data\n\n\nnwfsc-2 : Coastal raw audio data"
+    "text": "NWFSC GCP Buckets:\n\nnwfsc-1 : Salish Sea raw audio data\n\n\nnwfsc-2 : Coastal raw audio data",
+    "crumbs": [
+      "Data Management",
+      "Google Cloud"
+    ]
   },
   {
     "objectID": "content/Inventory.html",
