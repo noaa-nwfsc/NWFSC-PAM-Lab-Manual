@@ -34,35 +34,26 @@ website:
       - href: index.qmd
         text: Home
       - section: content/LabManagement.qmd
-        contents: 
-          - href: content/Safety.qmd
-            text: Safety
-          - href: content/Inventory.qmd
-            text: Inventory
-          - href: content/Hardware.qmd
-            text: Hardware
+        text:Lab Management 
+      - section: "Data Management"
+        contents:
+          - content/Data-Archive-GCP.qmd
+          - content/Data-Archive-PACM_Makara.qmd
+          - content/Data-Species.qmd
       - href: content/FieldMethods.qmd
         text: "Field Methods"
-      - href: content/DataManagement.qmd
-        text: Data Management
       - href: content/Hardware.qmd
         text: Hardware
       - section: content/SoftwareAnalysis.qmd
-#        text: "Software & Analysis"
         contents: 
           - content/Software.qmd
           - content/AnalysisMethods.qmd
-      - href: content/Reporting.qmd
+      - href: content/FieldMethods.qmd
+        text: "Field Methods"
+      - href: Reporting.qmd
         text: Reporting
-      - section: "Optional Pages"
-        contents: 
-          - content/SharedValues.qmd
-          - content/Onboarding.qmd
-          - content/Offboarding.qmd
-          - content/FieldMethods.qmd
-          - content/OpenScience.qmd
-          - content/PublicationsPresentations.qmd
-          - content/Resources.qmd
+      - section: PublicationsPresentations.qmd
+      - section: media.qmd
       - section: "NMFS Open Science Directions"
         contents:
           - content/NMFS_OpenSciDirections/Intro.qmd
