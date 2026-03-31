@@ -16,9 +16,6 @@ subtitle: GCP for Archive and Analysis
 
 Check the [archive spreadsheet](https://docs.google.com/spreadsheets/d/1bNu1GPOmyn3CRZ70Mnq4ZZmH7n7ZwIASIlcZD6zWa-k/edit?usp=sharing) to see if the dataset you are interested in accessing is available in the [SWFSC-SAEL bucket](https://console.cloud.google.com/storage/browser/swfsc-1;tab=objects?forceOnBucketsSortingFiltering=true&project=ggn-nmfs-pamdata-prod-1&prefix=&forceOnObjectsSortingFiltering=false).
 
-Data can be downloaded directly from the bucket/project of interest by selecting the folder and clicking 'Download'.
-
-![](images/GCP_bucket.png)
 
 
 ## Cloud Storage
@@ -68,10 +65,6 @@ cat("```r\n", paste(code, collapse = "\n"), "\n```")
 See the [PAM SI Cloud Storage](https://nmfs-ost.github.io/PAM-Cloud/content/Cloud.Storage.html){target="_blank"} website for more information and troubleshooting tips
 
 ## Cloud Processing
-
-::: callout-note
-work in progress
-:::
 
 Cloud based processing is now available through google workstations using the data you upload to GCP. SAEL has not began processing in the cloud but you can follow the steps below to establish a windows virtual machine (workstation) and access the [existing cloud based software](https://docs.google.com/spreadsheets/d/1b60mbrTqpHH29vN8u6KcWdABWEfdkRhZTSwYcdnMJUM/edit?gid=1389628961#gid=1389628961){target="_blank"}
 
