@@ -47,7 +47,7 @@ respective sections below
 
 
 
-### [*Google Cloud*](https://sael-swfsc.github.io/SAEL-lab-manual/content/Data-Archive-GCP.html)
+### [*Google Cloud*](https://noaa-nwfsc.github.io/NWFSC-PAM-Lab-Manual/content/Data-Archive-GCP.html)
 
 Google Cloud is for temporary processing/storing of data for Analysis.
 
@@ -68,12 +68,11 @@ Platform](https://console.cloud.google.com/marketplace/details/noaa-public/passi
 
 
 
-### [*PACM/Makara*](https://sael-swfsc.github.io/SAEL-lab-manual/content/Data-Archive-PACM_Makara.html)
+### [*PACM/Makara*](https://noaa-nwfsc.github.io/NWFSC-PAM-Lab-Manual/Data-Archive-PACM_Makara.html)
 
-All ADRIFT, PASCAL 2016, and CCES 2018 marine mammal detection data are
+All Salish Sea and Coastal marine mammal detection data are
 archived and available on the [Passive Acoustic Cetacean
-Map](https://apps-nefsc.fisheries.noaa.gov/pacm/#/) (PACM). Makara is an
-updated database and methods will be added here
+Map](https://apps-nefsc.fisheries.noaa.gov/pacm/#/) (PACM). 
 
 
 
