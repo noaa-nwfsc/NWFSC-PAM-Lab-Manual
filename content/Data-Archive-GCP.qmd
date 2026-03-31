@@ -1,9 +1,6 @@
 ---
 title: Google Cloud
-subtitle: GCP for Archive and Analysis
 ---
-
-#### [**National PAM SI Cloud Repo**](https://nmfs-ost.github.io/PAM-Cloud/){target="_blank"}**:** more details on cloud storage and processing from the cloud team
 
 ## **NWFSC GCP Buckets:** 
 
