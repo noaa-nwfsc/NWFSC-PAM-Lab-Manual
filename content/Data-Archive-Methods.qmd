@@ -1,8 +1,4 @@
 ---
-title: "Untitled"
----
-
----
 title: Data Archive
 editor: 
   markdown: 
@@ -50,9 +46,11 @@ Detailed archive methods for each source can be found on their
 respective sections below
 
 
+
 ### [*Google Cloud*](https://sael-swfsc.github.io/SAEL-lab-manual/content/Data-Archive-GCP.html)
 
 Google Cloud is for temporary processing/storing of data for Analysis.
+
 
 
 ### [*NCEI*](https://sael-swfsc.github.io/SAEL-lab-manual/content/Data-Archive-NCEI.html)
@@ -77,7 +75,7 @@ archived and available on the [Passive Acoustic Cetacean
 Map](https://apps-nefsc.fisheries.noaa.gov/pacm/#/) (PACM). Makara is an
 updated database and methods will be added here
 
-CalCurCEAS 2024 detection data - work in progress
+
 
 ### [*InPort*](https://sael-swfsc.github.io/SAEL-lab-manual/content/Data-Archive-InPort.html)
 
@@ -90,9 +88,3 @@ metadata is archived to NCEI, SWFSC will post all data related to PAM
 Deployments/data collection efforts and ensure there is a link to access
 additional data/metadata via NCEI and PACM.
 
-### *OBIS-SEAMAP*
-
-We are no longer storing marine mammal detection data in the
-[OBIS-SEAMAP database](https://seamap.env.duke.edu/). OBIS specific
-processing scripts for beaked whales are available
-[here](https://github.com/TaikiSan21/PAMpal/blob/735dfec50b3c6feaa8772765d752e8260363a2c5/devel/OBIS_Functions.R).
