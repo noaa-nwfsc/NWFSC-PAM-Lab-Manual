@@ -1,30 +1,15 @@
 ---
-title: Media
+title: Media and Resources
 ---
 
-### Learn about Southern Resident Killer Whales 
+### Southern Resident Killer Whale Research and Recovery
 
-In 2005, the Southern Resident killer whale was listed as endangered under the Endangered Species Act. 
-Learn more about the Southern Resident killer whale’s status, management, recovery efforts, and outreach and education partnerships
-(see link [here](https://www.fisheries.noaa.gov/west-coast/endangered-species-conservation/southern-resident-killer-whale-orcinus-orca))
+-   [SRKW population status, management, recovery efforts, and outreach and education](https://www.fisheries.noaa.gov/west-coast/endangered-species-conservation/southern-resident-killer-whale-orcinus-orca)
 
+-   [SRKW Research](https://www.fisheries.noaa.gov/west-coast/science-data/southern-resident-killer-whale-research-pacific-northwest)
 
-### Southern Resident Killer Whale Research in the Pacific Northwest
+-   [Story Map](https://storymaps.arcgis.com/stories/085aea554ca4472bb12b6b5d5cec3cc1)
 
-Learn about our research to support the conservation and recovery of endangered Southern Resident killer whales
-(see link [here](https://www.fisheries.noaa.gov/west-coast/science-data/southern-resident-killer-whale-research-pacific-northwest))
+-   [Web Stories & Articles](https://www.fisheries.noaa.gov/search?oq=southern+resident+killer+whale)
 
-
-### Southern resident killer whale story map
-
-Saving the Southern Residents: Turning the Tide for the West Coast's Beloved Killer Whales (see link [here](https://storymaps.arcgis.com/stories/085aea554ca4472bb12b6b5d5cec3cc1))
-
-
-### Other resources
-
-See full list of SRKW stories and articles [here.](https://www.fisheries.noaa.gov/search?oq=southern+resident+killer+whale)
-
-
-
-::: {.column width="40%"}
-![Southern resident killer whales with Washington State Ferry](content/images/ferry_whales.png){fig-alt="" fig-align="center"}
+![](content/images/ferry_whales.png){width="625"}
