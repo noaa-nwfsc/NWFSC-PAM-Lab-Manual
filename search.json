@@ -134,9 +134,9 @@
   {
     "objectID": "content/media.html",
     "href": "content/media.html",
-    "title": "Media",
+    "title": "Media and Resources",
     "section": "",
-    "text": "Learn about Southern Resident Killer Whales\nIn 2005, the Southern Resident killer whale was listed as endangered under the Endangered Species Act. Learn more about the Southern Resident killer whale’s status, management, recovery efforts, and outreach and education partnerships (see link here)\n\n\nSouthern Resident Killer Whale Research in the Pacific Northwest\nLearn about our research to support the conservation and recovery of endangered Southern Resident killer whales (see link here)\n\n\nSouthern resident killer whale story map\nSaving the Southern Residents: Turning the Tide for the West Coast’s Beloved Killer Whales (see link here)\n\n\nOther resources\nSee full list of SRKW stories and articles here.\n\n\n\n\nSouthern resident killer whales with Washington State Ferry",
+    "text": "Southern Resident Killer Whale Research and Recovery\n\nSRKW population status, management, recovery efforts, and outreach and education\nSRKW Research\nStory Map\nWeb Stories & Articles",
     "crumbs": [
       "Media and Resources"
     ]
@@ -511,6 +511,26 @@
     ]
   },
   {
+    "objectID": "content/Hardware.html#moored-recorders",
+    "href": "content/Hardware.html#moored-recorders",
+    "title": "Hardware",
+    "section": "Moored Recorders",
+    "text": "Moored Recorders\nPALs- POC, description, Project incl years\nEARs- POC, description, Project incl years\nSoundTraps- POC, description, Project incl years",
+    "crumbs": [
+      "Hardware"
+    ]
+  },
+  {
+    "objectID": "content/Hardware.html#dtags",
+    "href": "content/Hardware.html#dtags",
+    "title": "Hardware",
+    "section": "Dtags",
+    "text": "Dtags\nPOC, description, Project incl years\nA hardware section is required and should include the following information;\n\nInformation on your recorders\nArray configurations and diagrams\nPlatform information (towed, moored, drifting, etc.)\nOther sensors included (GPS devices, depth senors, etc.)",
+    "crumbs": [
+      "Hardware"
+    ]
+  },
+  {
     "objectID": "content/Hardware.html#towed-arrays",
     "href": "content/Hardware.html#towed-arrays",
     "title": "Hardware",
@@ -521,21 +541,11 @@
     ]
   },
   {
-    "objectID": "content/Hardware.html#moored-recorders",
-    "href": "content/Hardware.html#moored-recorders",
+    "objectID": "content/Hardware.html#other-instruments",
+    "href": "content/Hardware.html#other-instruments",
     "title": "Hardware",
-    "section": "Moored Recorders",
-    "text": "Moored Recorders\nPALs- POC, description, Project incl years\nEARs- POC, description, Project incl years\nSoundTraps- POC, description, Project incl years\nCPODS",
-    "crumbs": [
-      "Hardware"
-    ]
-  },
-  {
-    "objectID": "content/Hardware.html#dtags",
-    "href": "content/Hardware.html#dtags",
-    "title": "Hardware",
-    "section": "Dtags",
-    "text": "Dtags\nPOC, description, Project incl years\nA hardware section is required and should include the following information;\n\nInformation on your recorders\nArray configurations and diagrams\nPlatform information (towed, moored, drifting, etc.)\nOther sensors included (GPS devices, depth senors, etc.)\n\nThis will be variable for each center and may change from project to project. You should list all hardware, present and past.\nYou can also link to a separate hardware repository if needed (SAEL example)",
+    "section": "Other instruments",
+    "text": "Other instruments\nCPODS\nDipping hydrophones",
     "crumbs": [
       "Hardware"
     ]
