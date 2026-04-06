@@ -40,11 +40,14 @@
     ]
   },
   {
-    "objectID": "content/PublicationsPresentations.html",
-    "href": "content/PublicationsPresentations.html",
+    "objectID": "content/Publications.html",
+    "href": "content/Publications.html",
     "title": "Publications and Presentations",
     "section": "",
-    "text": "This is an optional page but is a great opportunity to highlight some of your publications and presentations.\nSAEL example (add once this page is corrected)"
+    "text": "This is an optional page but is a great opportunity to highlight some of your publications and presentations.\nSAEL example (add once this page is corrected)",
+    "crumbs": [
+      "Publications"
+    ]
   },
   {
     "objectID": "content/Data-Species.html",
