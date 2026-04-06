@@ -52,7 +52,7 @@ website:
         text: Reporting
       - href: PublicationsPresentations.qmd
         text: Publications
-      - href: media.qmd
+      - href: content/media.qmd
         text: Media and Resources
       - section: "NMFS Open Science Directions"
         contents:
