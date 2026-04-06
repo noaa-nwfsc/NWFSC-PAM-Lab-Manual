@@ -2,6 +2,10 @@
 title: Hardware
 ---
 
+
+![](images/PAMplatforms.png){width="425"}
+
+
 ## Towed Arrays
 
 POC, Description, Project incl years
@@ -13,6 +17,8 @@ PALs- POC, description, Project incl years
 EARs- POC, description, Project incl years
 
 SoundTraps- POC, description, Project incl years
+
+CPODS
 
 ## Dtags
 
@@ -29,4 +35,4 @@ This will be variable for each center and may change from project to project. Yo
 
 You can also link to a separate hardware repository if needed ([SAEL example](https://sael-swfsc.github.io/SAEL-lab-manual/content/Hardware_ADRIFT.html))
 
-This can be a section with subpages or a qmd
+

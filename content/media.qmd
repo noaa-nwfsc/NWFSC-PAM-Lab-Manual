@@ -23,3 +23,8 @@ Saving the Southern Residents: Turning the Tide for the West Coast's Beloved Kil
 ### Other resources
 
 See full list of SRKW stories and articles [here.](https://www.fisheries.noaa.gov/search?oq=southern+resident+killer+whale)
+
+
+
+::: {.column width="40%"}
+![Southern resident killer whales with Washington State Ferry](content/images/ferry_whales.png){fig-alt="" fig-align="center"}
