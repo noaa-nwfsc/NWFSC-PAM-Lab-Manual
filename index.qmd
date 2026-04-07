@@ -12,7 +12,7 @@ This lab manual serves as the handbook for the information to support our scienc
 :::
 
 ::: {.column width="40%"}
-![Southern resident killer whales with R/V Shimada](content/images/Shimada_whales.png){fig-alt="" fig-align="center"}
+![Southern resident killer whales with R/V Shimada. Photo by Candice Emmons taken under Federal Research Permit](content/images/Shimada_whales.png){fig-alt="" fig-align="center"}
 :::
 :::::
 
