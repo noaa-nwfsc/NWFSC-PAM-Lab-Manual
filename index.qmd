@@ -5,13 +5,13 @@ page-layout: full
 ---
 
 ::::: columns
-::: {.column width="60%"}
+::: {.column width="55%"}
 The [Marine Mammal Ecology Team](https://www.fisheries.noaa.gov/west-coast/science-data/marine-mammal-ecology-pacific-northwest) conducts research using passive acoustic monitoring to support NOAA's management needs. We are part of the Conservation Biology Division at [NOAA's Northwest Fisheries Science Center](https://www.fisheries.noaa.gov/about/northwest-fisheries-science-center) in Seattle, Washington.
 
-This lab manual serves as the handbook for the information to support our science.
+This lab manual serves as a handbook for the information to support our science.
 :::
 
-::: {.column width="40%"}
+::: {.column width="45%"}
 ![Southern resident killer whales with R/V Shimada. Photo by Candice Emmons taken under Federal Research Permit](content/images/Shimada_whales.png){fig-alt="" fig-align="center"}
 :::
 :::::
