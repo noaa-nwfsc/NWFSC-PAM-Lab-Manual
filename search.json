@@ -61,34 +61,68 @@
     ]
   },
   {
-    "objectID": "content/Reporting.html",
-    "href": "content/Reporting.html",
-    "title": "Reporting",
+    "objectID": "content/FieldMethods.html",
+    "href": "content/FieldMethods.html",
+    "title": "Field Methods",
     "section": "",
-    "text": "THIS PAGE IS UNDER CONSTRUCTION",
+    "text": "THIS PAGE IS UNDER CONSTRUCTION\nA field methods section is highly recommended to help your team keep track of all current and past fieldwork documentation. Things to include here can include hardware specifications, checklists for fieldwork prep, deployment and recovery methods, etc.\nYou can make this a section with subpages or link directly to a separate repository that includes more detailed methods.\nADRIFT example",
     "crumbs": [
-      "Reporting"
+      "Field Methods"
     ]
   },
   {
-    "objectID": "content/Reporting.html#templates",
-    "href": "content/Reporting.html#templates",
-    "title": "Reporting",
-    "section": "Templates",
-    "text": "Templates\nThis is a required page and should include any templates you have created for reporting within NOAA or to other agencies.\nExamples include NEFSC PAM data reporting templates and standard report formats for a few different agencies/species (right whales, Australian Marine Parks).",
+    "objectID": "content/media.html",
+    "href": "content/media.html",
+    "title": "Media and Resources",
+    "section": "",
+    "text": "Southern Resident Killer Whale Research and Recovery\n\nSRKW population status, management, recovery efforts, and outreach and education\nSRKW Research\nStory Map\nWeb Stories & Articles\n\n\n\n\nSouthern resident killer whales with Washington State Ferry. Photo by Candice Emmons taken under Federal Research Permit"
+  },
+  {
+    "objectID": "content/Analysis.html",
+    "href": "content/Analysis.html",
+    "title": "Analysis Methods",
+    "section": "",
+    "text": "THIS PAGE IS UNDER CONSTRUCTION\nAn analysis methods section is required and should include the following information;\n\nData Prep and Archive\n\nData prep (decompressing, creating LTSAs, decimating, etc.)\n\nSAEL example\n\nData quality checks (QAQC scripts)\n\nSAEL example\n\nData upload steps\n\nIf you have a internal storage include directions here on where data should be stored and in what format\nYou can also include a data managment structure with standardized naming and storage/folder structures\nSAEL example\n\n\nAnalysis methods for each species, group, or sound source\n\nYou can break this down by baleen and toothed whales, soundscapes, etc.\nEach section should include detailed and reproducible methods that anybody can recreate\n\n\nYou can also link to a separate hardware repository if needed (SAEL example)\nGlider Lab Manual example",
     "crumbs": [
-      "Reporting"
+      "Analysis"
     ]
   },
   {
-    "objectID": "content/Reporting.html#permits",
-    "href": "content/Reporting.html#permits",
-    "title": "Reporting",
-    "section": "Permits",
-    "text": "Permits\nYou should also include any permit reporting guidelines here\n\nPermits and Permit Reporting Guidelines\n\nInclude permit numbers and links to your centers/groups permits\nInclude directions for permit reporting (Protected species, National Marine Sanctuaries, Navy, Fish and Wildlife, etc)\nYou can include links to past permit reports (these can be private google drive folders if needed)\nSAEL example",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Marine Mammal Passive Acoustic Monitoring, NWFSC",
+    "section": "",
+    "text": "The Marine Mammal Ecology Team conducts research using passive acoustic monitoring to support NOAA’s management needs. We are part of the Conservation Biology Division at NOAA’s Northwest Fisheries Science Center in Seattle, Washington.\nThis lab manual serves as the handbook for the information to support our science.\n\n\n\n\nSouthern resident killer whales with R/V Shimada. Photo by Candice Emmons taken under Federal Research Permit",
     "crumbs": [
-      "Reporting"
+      "Home"
     ]
+  },
+  {
+    "objectID": "index.html#team-members",
+    "href": "index.html#team-members",
+    "title": "Marine Mammal Passive Acoustic Monitoring, NWFSC",
+    "section": "Team Members",
+    "text": "Team Members\nBrad Hanson, MMET Team Leader, Wildlife Biologist\nMarla Holt, Research Wildlife Biologist\nCandice Emmons, Research fish Biologist\nArial Brewer, Bioacoustician and Data Manager",
+    "crumbs": [
+      "Home"
+    ]
+  },
+  {
+    "objectID": "index.html#additional-nmfs-pam-lab-manuals",
+    "href": "index.html#additional-nmfs-pam-lab-manuals",
+    "title": "Marine Mammal Passive Acoustic Monitoring, NWFSC",
+    "section": "Additional NMFS PAM Lab Manuals",
+    "text": "Additional NMFS PAM Lab Manuals\n\nPIFSC: Pacific Islands Fisheries\nSWFSC: Southwest Fisheries)\nAFSC: Alaska Fisheries\nSEFSC: Southeast Fisheries\nNEFSC: Northeast Fisheries\nNational PAM Network",
+    "crumbs": [
+      "Home"
+    ]
+  },
+  {
+    "objectID": "content/SoftwareAnalysis.html",
+    "href": "content/SoftwareAnalysis.html",
+    "title": "Software & Analysis Methods",
+    "section": "",
+    "text": "A software and analysis methods section is required and should include subpages for both topics (analysis methods can be a subsection with pages for different anaylsis methods topics)."
   },
   {
     "objectID": "content/Data-Archive-PACM_Makara.html",
@@ -124,89 +158,34 @@
     ]
   },
   {
-    "objectID": "content/media.html",
-    "href": "content/media.html",
-    "title": "Media and Resources",
+    "objectID": "content/Reporting.html",
+    "href": "content/Reporting.html",
+    "title": "Reporting",
     "section": "",
-    "text": "Southern Resident Killer Whale Research and Recovery\n\nSRKW population status, management, recovery efforts, and outreach and education\nSRKW Research\nStory Map\nWeb Stories & Articles"
-  },
-  {
-    "objectID": "content/Analysis.html",
-    "href": "content/Analysis.html",
-    "title": "Analysis Methods",
-    "section": "",
-    "text": "An analysis methods section is required and should include the following information;\n\nData Prep and Archive\n\nData prep (decompressing, creating LTSAs, decimating, etc.)\n\nSAEL example\n\nData quality checks (QAQC scripts)\n\nSAEL example\n\nData upload steps\n\nIf you have a internal storage include directions here on where data should be stored and in what format\nYou can also include a data managment structure with standardized naming and storage/folder structures\nSAEL example\n\n\nAnalysis methods for each species, group, or sound source\n\nYou can break this down by baleen and toothed whales, soundscapes, etc.\nEach section should include detailed and reproducible methods that anybody can recreate\n\n\nYou can also link to a separate hardware repository if needed (SAEL example)\nGlider Lab Manual example",
+    "text": "THIS PAGE IS UNDER CONSTRUCTION",
     "crumbs": [
-      "Analysis"
+      "Reporting"
     ]
   },
   {
-    "objectID": "content/Resources.html",
-    "href": "content/Resources.html",
-    "title": "Resources",
-    "section": "",
-    "text": "This page is optional but can be a good spot for any remaining resources or tools you want easy access to."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Marine Mammal Passive Acoustic Monitoring, NWFSC",
-    "section": "",
-    "text": "The Marine Mammal Ecology Team conducts research using passive acoustic monitoring to support NOAA’s management needs. We are part of the Conservation Biology Division at NOAA’s Northwest Fisheries Science Center in Seattle, Washington.\nThis lab manual serves as the handbook for the information to support our science.\n\n\n\n\nSouthern resident killer whales with R/V Shimada",
+    "objectID": "content/Reporting.html#templates",
+    "href": "content/Reporting.html#templates",
+    "title": "Reporting",
+    "section": "Templates",
+    "text": "Templates\nThis is a required page and should include any templates you have created for reporting within NOAA or to other agencies.\nExamples include NEFSC PAM data reporting templates and standard report formats for a few different agencies/species (right whales, Australian Marine Parks).",
     "crumbs": [
-      "Home"
+      "Reporting"
     ]
   },
   {
-    "objectID": "index.html#team-members",
-    "href": "index.html#team-members",
-    "title": "Marine Mammal Passive Acoustic Monitoring, NWFSC",
-    "section": "Team Members",
-    "text": "Team Members\nBrad Hanson, MMET Team Leader, Wildlife Biologist\nMarla Holt, Research Wildlife Biologist\nCandice Emmons, Research fish Biologist\nArial Brewer, Bioacoustician and Data Manager",
+    "objectID": "content/Reporting.html#permits",
+    "href": "content/Reporting.html#permits",
+    "title": "Reporting",
+    "section": "Permits",
+    "text": "Permits\nYou should also include any permit reporting guidelines here\n\nPermits and Permit Reporting Guidelines\n\nInclude permit numbers and links to your centers/groups permits\nInclude directions for permit reporting (Protected species, National Marine Sanctuaries, Navy, Fish and Wildlife, etc)\nYou can include links to past permit reports (these can be private google drive folders if needed)\nSAEL example",
     "crumbs": [
-      "Home"
+      "Reporting"
     ]
-  },
-  {
-    "objectID": "index.html#additional-nmfs-pam-lab-manuals",
-    "href": "index.html#additional-nmfs-pam-lab-manuals",
-    "title": "Marine Mammal Passive Acoustic Monitoring, NWFSC",
-    "section": "Additional NMFS PAM Lab Manuals",
-    "text": "Additional NMFS PAM Lab Manuals\n\nPIFSC: Pacific Islands Fisheries\nSWFSC: Southwest Fisheries)\nAFSC: Alaska Fisheries\nSEFSC: Southeast Fisheries\nNEFSC: Northeast Fisheries\nNational PAM Network",
-    "crumbs": [
-      "Home"
-    ]
-  },
-  {
-    "objectID": "content/SoftwareAnalysis.html",
-    "href": "content/SoftwareAnalysis.html",
-    "title": "Software & Analysis Methods",
-    "section": "",
-    "text": "A software and analysis methods section is required and should include subpages for both topics (analysis methods can be a subsection with pages for different anaylsis methods topics)."
-  },
-  {
-    "objectID": "content/Inventory.html",
-    "href": "content/Inventory.html",
-    "title": "Inventory",
-    "section": "",
-    "text": "An inventory page is highly recommended to keep track of equipment, loans, and gear beingin the field. This can be a link to a Google sheet or embedded in the website\n\nSAEL Lab Example"
-  },
-  {
-    "objectID": "content/FieldMethods.html",
-    "href": "content/FieldMethods.html",
-    "title": "Field Methods",
-    "section": "",
-    "text": "THIS PAGE IS UNDER CONSTRUCTION\nA field methods section is highly recommended to help your team keep track of all current and past fieldwork documentation. Things to include here can include hardware specifications, checklists for fieldwork prep, deployment and recovery methods, etc.\nYou can make this a section with subpages or link directly to a separate repository that includes more detailed methods.\nADRIFT example",
-    "crumbs": [
-      "Field Methods"
-    ]
-  },
-  {
-    "objectID": "content/Safety.html",
-    "href": "content/Safety.html",
-    "title": "Safety",
-    "section": "",
-    "text": "Include the following information on this page\n\nLab safety\nField safety\nLink to your centers safety website\nIncident reporting directions\nChemical inventory (if applicable)\nLithium battery safety\n\nThis is an essential section to include if your lab uses these. Work with your lab safety manager to develop handling and storage instructions. See SAEL lab manual lithium battery page\n\nSAEL Lab Example & Glider Lab Manual"
   },
   {
     "objectID": "content/Software.html",
