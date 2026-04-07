@@ -50,7 +50,7 @@ website:
         text: Analysis
       - href: content/Publications.qmd
         text: Publications
-      - href: content/Media.qmd
+      - href: content/media.qmd
         text: Media and Resources
       - href: content/Reporting.qmd
         text: Reporting
