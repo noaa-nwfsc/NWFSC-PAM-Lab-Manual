@@ -1,7 +1,41 @@
 ---
-title: Publications and Presentations
+title: Publications
 ---
 
-This is an optional page but is a great opportunity to highlight some of your publications and presentations.
+Please see links, below, to publications and reports
 
-SAEL example (add once this page is corrected)
+
+[Tennessen, J. B., Holt, M. M., Wright, B. M., Hanson, M. B., Emmons, C. K., Giles, D. A., ... & Deecke, V. B. (2024). Males miss and females forgo: Auditory masking from vessel noise impairs foraging efficiency and success in killer whales. Global Change Biology, 30(9), e17490.](https://onlinelibrary.wiley.com/doi/full/10.1111/gcb.17490)
+
+[Tennessen, J. B., Holt, M. M., Wright, B. M., Hanson, M. B., Emmons, C. K., Giles, D. A., ... & Deecke, V. B. (2023). Divergent foraging strategies between populations of sympatric matrilineal killer whales. Behavioral Ecology, 34(3), 373-386.](https://academic.oup.com/beheco/article/34/3/373/7069400?guestAccessKey=)
+
+[Emmons, C. K., Hanson, M. B., & Lammers, M. O. (2021). Passive acoustic monitoring reveals spatiotemporal segregation of two fish-eating killer whale Orcinus orca populations in proposed critical habitat. Endangered Species Research, 44, 253-261.](https://www.int-res.com/journals/esr/articles/esr01099)
+
+[Holt, M. M., Tennessen, J. B., Ward, E. J., Hanson, M. B., Emmons, C. K., Giles, D. A., & Hogan, J. T. (2021). Effects of vessel distance and sex on the behavior of endangered killer whales. Frontiers in Marine Science, 7, 582182.](https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2020.582182/full)
+
+[Holt, M. M., Tennessen, J. B., Hanson, M. B., Emmons, C. K., Giles, D. A., Hogan, J. T., & Ford, M. J. (2021). Vessels and their sounds reduce prey capture effort by endangered killer whales (Orcinus orca). Marine Environmental Research, 170, 105429.](https://www.sciencedirect.com/science/article/pii/S0141113621001859)
+
+[Emmons, C. K., Hanson, M. B., & Lammers, M. O. (2020). Seasonal Occurrence of Cetaceans along the Washington Coast from Passive Acoustic Monitoring. Marine Fisheries Review, 82.](https://spo.nmfs.noaa.gov/sites/default/files/pdf-content/mfr823-42_1.pdf)
+
+[Emmons, C. K., Hanson, M. B., & Lammers, M. O. (2019). Monitoring the occurrence of Southern resident killer whales, other marine mammals, and anthropogenic sound in the Pacific Northwest. Prepared for: US Navy, US Pacific Fleet, Pearl Harbor, HI. Prepared by: National Oceanic and Atmospheric Administration, Northwest Fisheries Science Center under MIPR, (00070).](https://www.navymarinespeciesmonitoring.us/files/4815/9319/2733/Emmons_et_al_2019_Occurrence_Killer_Whales_Pacific_Northwest.pdf)
+
+[Holt, M. M., Hanson, M. B., Emmons, C. K., Haas, D. K., Giles, D. A., & Hogan, J. T. (2019). Sounds associated with foraging and prey capture in individual fish-eating killer whales, Orcinus orca. The Journal of the Acoustical Society of America, 146(5), 3475-3486.](https://pubs.aip.org/asa/jasa/article-abstract/146/5/3475/994216/Sounds-associated-with-foraging-and-prey-capture?redirectedFrom=fulltext)
+
+[Tennessen, J. B., Holt, M. M., Hanson, M. B., Emmons, C. K., Giles, D. A., & Hogan, J. T. (2019). Kinematic signatures of prey capture from archival tags reveal sex differences in killer whale foraging activity. Journal of Experimental Biology, 222(3), jeb191874.](https://journals.biologists.com/jeb/article/222/3/jeb191874/20746/Kinematic-signatures-of-prey-capture-from-archival?guestAccessKey=)
+
+[Tennessen, J. B., Holt, M. M., Ward, E. J., Hanson, M. B., Emmons, C. K., Giles, D. A., & Hogan, J. T. (2019). Hidden Markov models reveal temporal patterns and sex differences in killer whale behavior. Scientific reports, 9(1), 14951.](https://www.nature.com/articles/s41598-019-50942-2)
+
+[Holt, M. M., Hanson, M. B., Giles, D. A., Emmons, C. K., & Hogan, J. T. (2017). Noise levels received by endangered killer whales Orcinus orca before and after implementation of vessel regulations. Endangered Species Research, 34, 15-26.](https://www.int-res.com/journals/esr/articles/esr00841)
+
+[Houghton, J., Holt, M. M., Giles, D. A., Hanson, M. B., Emmons, C. K., Hogan, J. T., ... & VanBlaricom, G. R. (2015). The relationship between vessel traffic and noise levels received by killer whales (Orcinus orca). PloS one, 10(12), e0140119.](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0140119)
+
+[Hanson, M. B., Emmons, C. K., Ward, E. J., Nystuen, J. A., & Lammers, M. O. (2013). Assessing the coastal occurrence of endangered killer whales using autonomous passive acoustic recorders. The Journal of the Acoustical Society of America, 134(5), 3486-3495.](https://pubs.aip.org/asa/jasa/article-abstract/134/5/3486/968210/Assessing-the-coastal-occurrence-of-endangered?redirectedFrom=fulltext)
+
+[Holt, M. M., Noren, D. P., & Emmons, C. K. (2013). An investigation of sound use and behavior in a killer whale (Orcinus orca) population to inform passive acoustic monitoring studies. Marine Mammal Science, 29(2).](https://openurl.ebsco.com/EPDB%3Agcd%3A12%3A10778012/detailv2?sid=ebsco%3Aplink%3Ascholar&id=ebsco%3Agcd%3A86659674&crl=c&link_origin=scholar.google.com)
+
+[Holt, M. M., Noren, D. P., & Emmons, C. K. (2011). Effects of noise levels and call types on the source levels of killer whale calls. The Journal of the Acoustical Society of America, 130(5), 3100-3106.](https://pubs.aip.org/asa/jasa/article-abstract/130/5/3100/842802/Effects-of-noise-levels-and-call-types-on-the?redirectedFrom=fulltext)
+
+[Holt, M. M., Noren, D. P., Veirs, V., Emmons, C. K., & Veirs, S. (2009). Speaking up: Killer whales (Orcinus orca) increase their call amplitude in response to vessel noise. The Journal of the Acoustical Society of America, 125(1), EL27-EL32.](https://pubs.aip.org/asa/jasa/article/125/1/EL27/1058897)
+
+[Holt, M. M., Veirs, V. A. L., & Veirs, S. (2008). Noise effects on the call amplitude of southern resident killer whales (Orcinus orca). Bioacoustics, 17(1-3), 164-166.](https://www.tandfonline.com/doi/pdf/10.1080/09524622.2008.9753802)
+
