@@ -1,55 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://noaa-nwfsc.github.io/NWFSC-PAM-Lab-Manual/index.html</loc>
-    <lastmod>2026-04-07T23:16:56.373Z</lastmod>
-  </url>
-  <url>
-    <loc>https://noaa-nwfsc.github.io/NWFSC-PAM-Lab-Manual/content/SoftwareAnalysis.html</loc>
-    <lastmod>2026-04-07T23:16:56.356Z</lastmod>
-  </url>
-  <url>
-    <loc>https://noaa-nwfsc.github.io/NWFSC-PAM-Lab-Manual/content/media.html</loc>
-    <lastmod>2026-04-07T23:16:56.373Z</lastmod>
-  </url>
-  <url>
-    <loc>https://noaa-nwfsc.github.io/NWFSC-PAM-Lab-Manual/content/Reporting.html</loc>
-    <lastmod>2026-04-07T23:16:56.356Z</lastmod>
-  </url>
-  <url>
-    <loc>https://noaa-nwfsc.github.io/NWFSC-PAM-Lab-Manual/content/Software.html</loc>
-    <lastmod>2026-04-07T23:16:56.356Z</lastmod>
-  </url>
-  <url>
-    <loc>https://noaa-nwfsc.github.io/NWFSC-PAM-Lab-Manual/content/Data-Archive-PACM_Makara.html</loc>
-    <lastmod>2026-04-07T23:16:56.356Z</lastmod>
-  </url>
-  <url>
-    <loc>https://noaa-nwfsc.github.io/NWFSC-PAM-Lab-Manual/content/Hardware.html</loc>
-    <lastmod>2026-04-07T23:16:56.356Z</lastmod>
-  </url>
-  <url>
-    <loc>https://noaa-nwfsc.github.io/NWFSC-PAM-Lab-Manual/content/Data-Archive-GCP.html</loc>
-    <lastmod>2026-04-07T23:16:56.356Z</lastmod>
-  </url>
-  <url>
-    <loc>https://noaa-nwfsc.github.io/NWFSC-PAM-Lab-Manual/content/Analysis.html</loc>
-    <lastmod>2026-04-07T23:16:56.355Z</lastmod>
-  </url>
-  <url>
-    <loc>https://noaa-nwfsc.github.io/NWFSC-PAM-Lab-Manual/content/Data-Species.html</loc>
-    <lastmod>2026-04-07T23:16:56.356Z</lastmod>
+    <loc>https://noaa-nwfsc.github.io/NWFSC-PAM-Lab-Manual/content/LabManagement.html</loc>
+    <lastmod>2026-04-07T23:29:46.477Z</lastmod>
   </url>
   <url>
     <loc>https://noaa-nwfsc.github.io/NWFSC-PAM-Lab-Manual/content/Publications.html</loc>
-    <lastmod>2026-04-07T23:16:56.356Z</lastmod>
+    <lastmod>2026-04-07T23:29:46.477Z</lastmod>
+  </url>
+  <url>
+    <loc>https://noaa-nwfsc.github.io/NWFSC-PAM-Lab-Manual/content/Data-Species.html</loc>
+    <lastmod>2026-04-07T23:29:46.477Z</lastmod>
   </url>
   <url>
     <loc>https://noaa-nwfsc.github.io/NWFSC-PAM-Lab-Manual/content/FieldMethods.html</loc>
-    <lastmod>2026-04-07T23:16:56.356Z</lastmod>
+    <lastmod>2026-04-07T23:29:46.477Z</lastmod>
   </url>
   <url>
-    <loc>https://noaa-nwfsc.github.io/NWFSC-PAM-Lab-Manual/content/LabManagement.html</loc>
-    <lastmod>2026-04-07T23:16:56.356Z</lastmod>
+    <loc>https://noaa-nwfsc.github.io/NWFSC-PAM-Lab-Manual/content/media.html</loc>
+    <lastmod>2026-04-07T23:29:46.492Z</lastmod>
+  </url>
+  <url>
+    <loc>https://noaa-nwfsc.github.io/NWFSC-PAM-Lab-Manual/content/Analysis.html</loc>
+    <lastmod>2026-04-07T23:29:46.476Z</lastmod>
+  </url>
+  <url>
+    <loc>https://noaa-nwfsc.github.io/NWFSC-PAM-Lab-Manual/index.html</loc>
+    <lastmod>2026-04-07T23:29:46.492Z</lastmod>
+  </url>
+  <url>
+    <loc>https://noaa-nwfsc.github.io/NWFSC-PAM-Lab-Manual/content/SoftwareAnalysis.html</loc>
+    <lastmod>2026-04-07T23:29:46.477Z</lastmod>
+  </url>
+  <url>
+    <loc>https://noaa-nwfsc.github.io/NWFSC-PAM-Lab-Manual/content/Data-Archive-GCP.html</loc>
+    <lastmod>2026-04-07T23:29:46.477Z</lastmod>
+  </url>
+  <url>
+    <loc>https://noaa-nwfsc.github.io/NWFSC-PAM-Lab-Manual/content/Data-Archive-PACM_Makara.html</loc>
+    <lastmod>2026-04-07T23:29:46.477Z</lastmod>
+  </url>
+  <url>
+    <loc>https://noaa-nwfsc.github.io/NWFSC-PAM-Lab-Manual/content/Reporting.html</loc>
+    <lastmod>2026-04-07T23:29:46.477Z</lastmod>
+  </url>
+  <url>
+    <loc>https://noaa-nwfsc.github.io/NWFSC-PAM-Lab-Manual/content/Software.html</loc>
+    <lastmod>2026-04-07T23:29:46.477Z</lastmod>
+  </url>
+  <url>
+    <loc>https://noaa-nwfsc.github.io/NWFSC-PAM-Lab-Manual/content/Hardware.html</loc>
+    <lastmod>2026-04-07T23:29:46.477Z</lastmod>
   </url>
 </urlset>
