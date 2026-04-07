@@ -1,8 +1,6 @@
 ---
-title: Publications
+title: Publications & Reports
 ---
-
-Please see links, below, to publications and reports
 
 
 [Tennessen, J. B., Holt, M. M., Wright, B. M., Hanson, M. B., Emmons, C. K., Giles, D. A., ... & Deecke, V. B. (2024). Males miss and females forgo: Auditory masking from vessel noise impairs foraging efficiency and success in killer whales. Global Change Biology, 30(9), e17490.](https://onlinelibrary.wiley.com/doi/full/10.1111/gcb.17490)

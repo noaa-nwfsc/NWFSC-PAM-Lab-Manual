@@ -44,25 +44,16 @@ website:
         text: Field Methods
       - href: content/Hardware.qmd
         text: Hardware
-      - section: content/SoftwareAnalysis.qmd
-        contents:
-          - content/Software.qmd
-          - content/AnalysisMethods.qmd
-      - href: content/Reporting.qmd
-        text: Reporting
+      - href: content/Software.qmd
+        text: Software
+      - href: content/Analysis.qmd
+        text: Analysis
       - href: content/Publications.qmd
         text: Publications
-      - href: content/media.qmd
+      - href: content/Media.qmd
         text: Media and Resources
-      - section: "NMFS Open Science Directions"
-        contents:
-          - content/NMFS_OpenSciDirections/Intro.qmd
-          - content/NMFS_OpenSciDirections/add-content.qmd
-          - content/NMFS_OpenSciDirections/customizing.qmd
-          - content/NMFS_OpenSciDirections/rendering.qmd
-          - content/NMFS_OpenSciDirections/rmarkdown.Rmd
-          - content/NMFS_OpenSciDirections/code.qmd
-          - content/NMFS_OpenSciDirections/acknowledgements.qmd
+      - href: content/Reporting.qmd
+        text: Reporting
         
 format:
   html:
