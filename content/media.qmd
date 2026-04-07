@@ -12,4 +12,4 @@ title: Media and Resources
 
 -   [Web Stories & Articles](https://www.fisheries.noaa.gov/search?oq=southern+resident+killer+whale)
 
-![](images/ferry_whales.png)
+![](images/ferry_whales.png){width="625"}

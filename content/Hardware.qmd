@@ -2,7 +2,7 @@
 title: Hardware
 ---
 
-![](images/PAMplatforms.png)
+![](images/PAMplatforms.png){width="625"}
 
 ## Moored Recorders
 
