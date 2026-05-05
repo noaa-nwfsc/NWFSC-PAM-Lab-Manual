@@ -6,7 +6,7 @@ page-layout: full
 
 ::::: columns
 ::: {.column width="55%"}
-The [Marine Mammal Ecology Team](https://www.fisheries.noaa.gov/west-coast/science-data/marine-mammal-ecology-pacific-northwest) conducts research using passive acoustic monitoring to support NOAA's management needs. We are part of the Conservation Biology Division at [NOAA's Northwest Fisheries Science Center](https://www.fisheries.noaa.gov/about/northwest-fisheries-science-center) in Seattle, Washington.
+The [Marine Mammal Ecology Team](https://www.fisheries.noaa.gov/west-coast/science-data/marine-mammal-ecology-pacific-northwest) conducts research using passive acoustic monitoring to support NOAA's management needs. We are part of the [Conservation Biology Division](https://www.fisheries.noaa.gov/about/conservation-biology-division-northwest-fisheries-science-center) at [NOAA's Northwest Fisheries Science Center](https://www.fisheries.noaa.gov/about/northwest-fisheries-science-center) in Seattle, Washington.
 
 This lab manual serves as a handbook for the information to support our science.
 :::
@@ -26,12 +26,9 @@ This lab manual serves as a handbook for the information to support our science.
 
 Arial Brewer, Bioacoustician and Data Manager
 
-
-
 ## Location
+
 2725 Montlake Blvd. East, Seattle, WA 98112
-
-
 
 ## Additional NMFS PAM Lab Manuals
 

@@ -2,20 +2,22 @@
 title: Field Methods
 ---
 
-THIS PAGE IS UNDER CONSTRUCTION
+## Passive Acoustic Monitoring
 
+We use passive acoustic monitoring (PAM) to study cetacean presence and anthropogenic noise throughout the Salish Sea and Coastal regions of the Northwest.
 
-##Passive Acoustic Monitoring in the Salish Sea and Coastal regions of the Northwest
 [Characterizing Soundscapes](https://www.fisheries.noaa.gov/west-coast/science-data/characterizing-soundscapes-southern-resident-killer-whale-habitat-projected-increases)
 
+[SRKW Noise and Disturbance](https://www.fisheries.noaa.gov/west-coast/science-data/southern-resident-killer-whale-noise-and-disturbance-research)
 
-##Digital Acoustic Recording Tags
-[DTAG research](https://www.fisheries.noaa.gov/west-coast/science-data/southern-resident-killer-whale-digital-acoustic-recording-tag-research)
+## Biologging Tags
 
+We use non-invasive, digital acoustic recording tags (DTAGS) to examine sound exposure, sound use, and behavior of SRKW.
 
-##PODS Survey
-[Pacific Orcinus Distribution Survey]
+[DTAG Research](https://www.fisheries.noaa.gov/west-coast/science-data/southern-resident-killer-whale-digital-acoustic-recording-tag-research)
 
+## Field Surveys
 
-##PODSlite Survey
-[Pacific Orcinus Distribution Survey-lite]
+We conduct field surveys to investigate the many facets of SRKW health and habitat use, including prey and fecal sample collection, acoustic recordings, photo identification, health assessments, water sample collection, and more!
+
+[Pacific Orcinus Distribution Survey (PODS)](https://www.fisheries.noaa.gov/feature-story/first-joint-noaa-killer-whale-survey-examines-endangered-southern-residents-shift)
