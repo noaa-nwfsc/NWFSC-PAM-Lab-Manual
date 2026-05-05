@@ -20,4 +20,6 @@ We use non-invasive, digital acoustic recording tags (DTAGS) to examine sound ex
 
 We conduct field surveys to investigate the many facets of SRKW health and habitat use, including prey and fecal sample collection, acoustic recordings, photo identification, health assessments, water sample collection, and more!
 
-[Pacific Orcinus Distribution Survey (PODS)](https://www.fisheries.noaa.gov/feature-story/first-joint-noaa-killer-whale-survey-examines-endangered-southern-residents-shift)
+Pacific Orcinus Distribution Survey (PODS) (cruise report coming soon)
+
+[PODS lite](https://www.fisheries.noaa.gov/feature-story/first-joint-noaa-killer-whale-survey-examines-endangered-southern-residents-shift)

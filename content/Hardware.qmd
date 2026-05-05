@@ -6,29 +6,22 @@ title: Hardware
 
 ## Moored Recorders
 
-PALs- POC, description, Project incl years
+PALs
 
-EARs- POC, description, Project incl years
+[EARs](https://oceanwidescience.org/ecological-acoustic-recorder-ear/)
 
-SoundTraps- POC, description, Project incl years
+[SoundTraps](https://www.oceaninstruments.co.nz/)
 
-## Dtags
+## Biologging Tags
 
-POC, description, Project incl years
+[Digital Acoustic Recording tags (DTAGS)](https://www2.whoi.edu/site/marinemammalbehaviorlab/dtag/)
 
-A hardware section is required and should include the following information;
+## Other Instruments
 
--   Information on your recorders
--   Array configurations and diagrams
--   Platform information (towed, moored, drifting, etc.)
--   Other sensors included (GPS devices, depth senors, etc.)
+[Towed Arrays](https://sael-swfsc.github.io/SAEL-lab-manual/content/Hardware_Towed-Hydrophone.html)
 
-## Towed Arrays
+[C-PODS](https://www.chelonia.co.uk/c-pod/)
 
-POC, Description, Project incl years
-
-## Other instruments
-
-CPODS
+[Sonobuoys](https://sael-swfsc.github.io/SAEL-lab-manual/content/Hardware_Sonobuoys.html)
 
 Dipping hydrophones
