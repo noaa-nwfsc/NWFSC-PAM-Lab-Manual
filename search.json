@@ -61,17 +61,7 @@
     "href": "content/Reporting.html",
     "title": "Reporting",
     "section": "",
-    "text": "THIS PAGE IS UNDER CONSTRUCTION",
-    "crumbs": [
-      "Reporting"
-    ]
-  },
-  {
-    "objectID": "content/Reporting.html#templates",
-    "href": "content/Reporting.html#templates",
-    "title": "Reporting",
-    "section": "Templates",
-    "text": "Templates\nThis is a required page and should include any templates you have created for reporting within NOAA or to other agencies.\nExamples include NEFSC PAM data reporting templates and standard report formats for a few different agencies/species (right whales, Australian Marine Parks).",
+    "text": "Our research requires many, multi-year permits, which include NMFS Scientific, DFO SARA, OCNMS, JARPA.\nPOC: Candice Emmons (candice.emmons@noaa.gov)",
     "crumbs": [
       "Reporting"
     ]
@@ -80,8 +70,8 @@
     "objectID": "content/Reporting.html#permits",
     "href": "content/Reporting.html#permits",
     "title": "Reporting",
-    "section": "Permits",
-    "text": "Permits\nYou should also include any permit reporting guidelines here\n\nPermits and Permit Reporting Guidelines\n\nInclude permit numbers and links to your centers/groups permits\nInclude directions for permit reporting (Protected species, National Marine Sanctuaries, Navy, Fish and Wildlife, etc)\nYou can include links to past permit reports (these can be private google drive folders if needed)\nSAEL example",
+    "section": "",
+    "text": "Our research requires many, multi-year permits, which include NMFS Scientific, DFO SARA, OCNMS, JARPA.\nPOC: Candice Emmons (candice.emmons@noaa.gov)",
     "crumbs": [
       "Reporting"
     ]
@@ -123,27 +113,17 @@
     "href": "content/Hardware.html#moored-recorders",
     "title": "Hardware",
     "section": "Moored Recorders",
-    "text": "Moored Recorders\nPALs- POC, description, Project incl years\nEARs- POC, description, Project incl years\nSoundTraps- POC, description, Project incl years",
+    "text": "Moored Recorders\nPALs\nEARs\nSoundTraps",
     "crumbs": [
       "Hardware"
     ]
   },
   {
-    "objectID": "content/Hardware.html#dtags",
-    "href": "content/Hardware.html#dtags",
+    "objectID": "content/Hardware.html#biologging-tags",
+    "href": "content/Hardware.html#biologging-tags",
     "title": "Hardware",
-    "section": "Dtags",
-    "text": "Dtags\nPOC, description, Project incl years\nA hardware section is required and should include the following information;\n\nInformation on your recorders\nArray configurations and diagrams\nPlatform information (towed, moored, drifting, etc.)\nOther sensors included (GPS devices, depth senors, etc.)",
-    "crumbs": [
-      "Hardware"
-    ]
-  },
-  {
-    "objectID": "content/Hardware.html#towed-arrays",
-    "href": "content/Hardware.html#towed-arrays",
-    "title": "Hardware",
-    "section": "Towed Arrays",
-    "text": "Towed Arrays\nPOC, Description, Project incl years",
+    "section": "Biologging Tags",
+    "text": "Biologging Tags\nDigital Acoustic Recording tags (DTAGS)",
     "crumbs": [
       "Hardware"
     ]
@@ -152,8 +132,8 @@
     "objectID": "content/Hardware.html#other-instruments",
     "href": "content/Hardware.html#other-instruments",
     "title": "Hardware",
-    "section": "Other instruments",
-    "text": "Other instruments\nCPODS\nDipping hydrophones",
+    "section": "Other Instruments",
+    "text": "Other Instruments\nTowed Arrays\nC-PODS\nSonobuoys\nDipping hydrophones",
     "crumbs": [
       "Hardware"
     ]
@@ -224,7 +204,7 @@
     "href": "content/FieldMethods.html#field-surveys",
     "title": "Field Methods",
     "section": "Field Surveys",
-    "text": "Field Surveys\nWe conduct field surveys to investigate the many facets of SRKW health and habitat use, including prey and fecal sample collection, acoustic recordings, photo identification, health assessments, water sample collection, and more!\nPacific Orcinus Distribution Survey (PODS)",
+    "text": "Field Surveys\nWe conduct field surveys to investigate the many facets of SRKW health and habitat use, including prey and fecal sample collection, acoustic recordings, photo identification, health assessments, water sample collection, and more!\nPacific Orcinus Distribution Survey (PODS) (cruise report coming soon)\nPODS lite",
     "crumbs": [
       "Field Methods"
     ]
