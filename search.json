@@ -119,17 +119,6 @@
     ]
   },
   {
-    "objectID": "content/Data-Archive-PACM_Makara.html#archiving-data",
-    "href": "content/Data-Archive-PACM_Makara.html#archiving-data",
-    "title": "PACM/Makara",
-    "section": "Archiving Data",
-    "text": "Archiving Data\n\nMAKARA\nWORK IN PROGRESS - temporary methods for archiving to Makara can be found here. Waiting for next Makara release\n\n\nPACM\nDetailed methods for archiving data to PACM can be found in this ADRIFT-PACM GitHub repository.",
-    "crumbs": [
-      "Data Management",
-      "PACM/Makara"
-    ]
-  },
-  {
     "objectID": "content/Hardware.html#moored-recorders",
     "href": "content/Hardware.html#moored-recorders",
     "title": "Hardware",
@@ -205,7 +194,37 @@
     "href": "content/FieldMethods.html",
     "title": "Field Methods",
     "section": "",
-    "text": "THIS PAGE IS UNDER CONSTRUCTION\n##Passive Acoustic Monitoring in the Salish Sea and Coastal regions of the Northwest Characterizing Soundscapes\n##Digital Acoustic Recording Tags DTAG research\n##PODS Survey [Pacific Orcinus Distribution Survey]\n##PODSlite Survey [Pacific Orcinus Distribution Survey-lite]",
+    "text": "We use passive acoustic monitoring (PAM) to study cetacean presence and anthropogenic noise throughout the Salish Sea and Coastal regions of the Northwest.\nCharacterizing Soundscapes\nSRKW Noise and Disturbance",
+    "crumbs": [
+      "Field Methods"
+    ]
+  },
+  {
+    "objectID": "content/FieldMethods.html#passive-acoustic-monitoring",
+    "href": "content/FieldMethods.html#passive-acoustic-monitoring",
+    "title": "Field Methods",
+    "section": "",
+    "text": "We use passive acoustic monitoring (PAM) to study cetacean presence and anthropogenic noise throughout the Salish Sea and Coastal regions of the Northwest.\nCharacterizing Soundscapes\nSRKW Noise and Disturbance",
+    "crumbs": [
+      "Field Methods"
+    ]
+  },
+  {
+    "objectID": "content/FieldMethods.html#biologging-tags",
+    "href": "content/FieldMethods.html#biologging-tags",
+    "title": "Field Methods",
+    "section": "Biologging Tags",
+    "text": "Biologging Tags\nWe use non-invasive, digital acoustic recording tags (DTAGS) to examine sound exposure, sound use, and behavior of SRKW.\nDTAG Research",
+    "crumbs": [
+      "Field Methods"
+    ]
+  },
+  {
+    "objectID": "content/FieldMethods.html#field-surveys",
+    "href": "content/FieldMethods.html#field-surveys",
+    "title": "Field Methods",
+    "section": "Field Surveys",
+    "text": "Field Surveys\nWe conduct field surveys to investigate the many facets of SRKW health and habitat use, including prey and fecal sample collection, acoustic recordings, photo identification, health assessments, water sample collection, and more!\nPacific Orcinus Distribution Survey (PODS)",
     "crumbs": [
       "Field Methods"
     ]
