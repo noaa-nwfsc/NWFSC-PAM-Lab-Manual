@@ -51,7 +51,7 @@ website:
       - href: content/Publications.qmd
         text: Publications
       - href: content/media.qmd
-        text: Media and Resources
+        text: Media
       - href: content/Reporting.qmd
         text: Reporting
         
