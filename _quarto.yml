@@ -44,8 +44,8 @@ website:
         text: Field Methods
       - href: content/Hardware.qmd
         text: Hardware
-      - href: content/Software.qmd
-        text: Software
+      - href: content/SoftwareAnalysis.qmd
+        text: Software & Analysis
       - href: content/Analysis.qmd
         text: Analysis
       - href: content/Publications.qmd

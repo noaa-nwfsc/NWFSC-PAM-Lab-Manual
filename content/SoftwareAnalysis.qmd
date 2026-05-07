@@ -2,4 +2,13 @@
 title: Software & Analysis Methods
 ---
 
-A software and analysis methods section is required and should include subpages for both topics (analysis methods can be a subsection with pages for different anaylsis methods topics).
+## Software & Analysis
+
+We use a variety of software platforms to analyze passive acoustic data, including:
+
+-   [MATLAB](https://www.mathworks.com/help/install/ug/install-products-with-internet-connection.html)
+-   [Triton](https://www.cetus.ucsd.edu/technologies_triton.html)
+-   [PAMGuard](https://www.pamguard.org/)
+-   [Raven Pro](https://www.ravensoundsoftware.com/software/raven-pro/)
+-   [R Studio](https://posit.co/download/rstudio-desktop)
+-   [Python](https://www.python.org/)
