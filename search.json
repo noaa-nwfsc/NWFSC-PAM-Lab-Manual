@@ -44,7 +44,20 @@
     "href": "content/SoftwareAnalysis.html",
     "title": "Software & Analysis Methods",
     "section": "",
-    "text": "A software and analysis methods section is required and should include subpages for both topics (analysis methods can be a subsection with pages for different anaylsis methods topics)."
+    "text": "We use a variety of software platforms to analyze passive acoustic data, including:\n\nMATLAB\nTriton\nPAMGuard\nRaven Pro\nR Studio\nPython",
+    "crumbs": [
+      "Software & Analysis"
+    ]
+  },
+  {
+    "objectID": "content/SoftwareAnalysis.html#software-analysis",
+    "href": "content/SoftwareAnalysis.html#software-analysis",
+    "title": "Software & Analysis Methods",
+    "section": "",
+    "text": "We use a variety of software platforms to analyze passive acoustic data, including:\n\nMATLAB\nTriton\nPAMGuard\nRaven Pro\nR Studio\nPython",
+    "crumbs": [
+      "Software & Analysis"
+    ]
   },
   {
     "objectID": "content/media.html",
@@ -74,26 +87,6 @@
     "text": "Our research requires many, multi-year permits, which include:\n\nNMFS Scientific\nDFO SARA\nOCNMS\nJARPA\n\nPOC: Candice Emmons (candice.emmons@noaa.gov)",
     "crumbs": [
       "Reporting"
-    ]
-  },
-  {
-    "objectID": "content/Software.html",
-    "href": "content/Software.html",
-    "title": "Software",
-    "section": "",
-    "text": "We use a variety of software platforms to analyze passive acoustic data, including:\n\nMATLAB\nTriton\nPAMGuard\nRaven Pro\nR Studio\nPython",
-    "crumbs": [
-      "Software"
-    ]
-  },
-  {
-    "objectID": "content/Software.html#software",
-    "href": "content/Software.html#software",
-    "title": "Software",
-    "section": "",
-    "text": "We use a variety of software platforms to analyze passive acoustic data, including:\n\nMATLAB\nTriton\nPAMGuard\nRaven Pro\nR Studio\nPython",
-    "crumbs": [
-      "Software"
     ]
   },
   {
@@ -146,16 +139,6 @@
     "text": "Other Instruments\nTowed Arrays\nC-PODS\nSonobuoys\nDipping hydrophones",
     "crumbs": [
       "Hardware"
-    ]
-  },
-  {
-    "objectID": "content/Analysis.html",
-    "href": "content/Analysis.html",
-    "title": "Analysis Methods",
-    "section": "",
-    "text": "THIS PAGE IS UNDER CONSTRUCTION\nAn analysis methods section is required and should include the following information;\n\nData Prep and Archive\n\nData prep (decompressing, creating LTSAs, decimating, etc.)\n\nSAEL example\n\nData quality checks (QAQC scripts)\n\nSAEL example\n\nData upload steps\n\nIf you have a internal storage include directions here on where data should be stored and in what format\nYou can also include a data managment structure with standardized naming and storage/folder structures\nSAEL example\n\n\nAnalysis methods for each species, group, or sound source\n\nYou can break this down by baleen and toothed whales, soundscapes, etc.\nEach section should include detailed and reproducible methods that anybody can recreate\n\n\nYou can also link to a separate hardware repository if needed (SAEL example)\nGlider Lab Manual example",
-    "crumbs": [
-      "Analysis"
     ]
   },
   {
