@@ -4,6 +4,11 @@ title: Reporting
 
 ## Permits
 
-Our research requires many, multi-year permits, which include NMFS Scientific, DFO SARA, OCNMS, JARPA.
+Our research requires many, multi-year permits, which include:
+
+-   NMFS Scientific
+-   DFO SARA
+-   OCNMS
+-   JARPA
 
 POC: Candice Emmons (candice.emmons\@noaa.gov)

@@ -2,12 +2,13 @@
 title: Software
 ---
 
-THIS PAGE IS UNDER CONSTRUCTION
+## Software
 
+We use a variety of software platforms to analyze passive acoustic data, including:
 
-
-A software section is required and should include the following information;
-
--   List of software you use and their applications (R, Matlab/Triton, Python, PAMGuard, Raven, etc.)
--   Software packages or tools your team has built (PAMPal, PAMmisc, Banter, PAMscapes, Driftwatch, etc.)
-    -   [SAEL example](https://sael-swfsc.github.io/SAEL-lab-manual/content/Analysis-software.html)
+-   [MATLAB](https://www.mathworks.com/help/install/ug/install-products-with-internet-connection.html)
+-   [Triton](https://www.cetus.ucsd.edu/technologies_triton.html)
+-   [PAMGuard](https://www.pamguard.org/)
+-   [Raven Pro](https://www.ravensoundsoftware.com/software/raven-pro/)
+-   [R Studio](https://posit.co/download/rstudio-desktop)
+-   [Python](https://www.python.org/)
