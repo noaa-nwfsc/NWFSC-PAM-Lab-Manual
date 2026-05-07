@@ -50,16 +50,6 @@
     ]
   },
   {
-    "objectID": "content/SoftwareAnalysis.html#software-analysis",
-    "href": "content/SoftwareAnalysis.html#software-analysis",
-    "title": "Software & Analysis Methods",
-    "section": "",
-    "text": "We use a variety of software platforms to analyze passive acoustic data, including:\n\nMATLAB\nTriton\nPAMGuard\nRaven Pro\nR Studio\nPython",
-    "crumbs": [
-      "Software & Analysis"
-    ]
-  },
-  {
     "objectID": "content/media.html",
     "href": "content/media.html",
     "title": "Media and Resources",
