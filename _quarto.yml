@@ -46,8 +46,6 @@ website:
         text: Hardware
       - href: content/SoftwareAnalysis.qmd
         text: Software & Analysis
-      - href: content/Analysis.qmd
-        text: Analysis
       - href: content/Publications.qmd
         text: Publications
       - href: content/media.qmd

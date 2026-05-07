@@ -2,7 +2,6 @@
 title: Software & Analysis Methods
 ---
 
-## Software & Analysis
 
 We use a variety of software platforms to analyze passive acoustic data, including:
 
