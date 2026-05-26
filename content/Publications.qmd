@@ -2,6 +2,7 @@
 title: Publications & Reports
 ---
 
+[Emmons, C.K., Hanson, M.B., Holt, M.M., Noren, D.P., & Serna, M. (2026). PODS: Two Decades of Ship-Based Surveys Inform Expansion of Critical Habitat Designation for Southern Resident Killer Whales (Orcinus orca ater). U.S.Department of Commerce, NOAA Technical Memorandum NMFS-NWFSC-208](https://library.oarcloud.noaa.gov/noaa_documents.lib/NMFS/NWFSC/TM_NMFS_NWFSC/TM_NMFS_NWFSC_208.pdf)
 
 [Tennessen, J. B., Holt, M. M., Wright, B. M., Hanson, M. B., Emmons, C. K., Giles, D. A., ... & Deecke, V. B. (2024). Males miss and females forgo: Auditory masking from vessel noise impairs foraging efficiency and success in killer whales. Global Change Biology, 30(9), e17490.](https://onlinelibrary.wiley.com/doi/full/10.1111/gcb.17490)
 
