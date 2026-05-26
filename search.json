@@ -1,42 +1,32 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Marine Mammal Passive Acoustic Monitoring, NWFSC",
-    "section": "",
-    "text": "The Marine Mammal Ecology Team conducts research using passive acoustic monitoring to support NOAA’s management needs. We are part of the Conservation Biology Division at NOAA’s Northwest Fisheries Science Center in Seattle, Washington.\nThis lab manual serves as a handbook for the information to support our science.\n\n\n\n\nSouthern resident killer whales with R/V Shimada. Photo by Candice Emmons taken under Federal Research Permit",
+    "objectID": "content/Hardware.html#moored-recorders",
+    "href": "content/Hardware.html#moored-recorders",
+    "title": "Hardware",
+    "section": "Moored Recorders",
+    "text": "Moored Recorders\nPALs\nEARs\nSoundTraps",
     "crumbs": [
-      "Home"
+      "Hardware"
     ]
   },
   {
-    "objectID": "index.html#team-members",
-    "href": "index.html#team-members",
-    "title": "Marine Mammal Passive Acoustic Monitoring, NWFSC",
-    "section": "Team Members",
-    "text": "Team Members\nBrad Hanson, MMET Team Leader, Wildlife Biologist\nMarla Holt, Research Wildlife Biologist\nCandice Emmons, Research fish Biologist\nArial Brewer, Bioacoustician and Data Manager",
+    "objectID": "content/Hardware.html#biologging-tags",
+    "href": "content/Hardware.html#biologging-tags",
+    "title": "Hardware",
+    "section": "Biologging Tags",
+    "text": "Biologging Tags\nDigital Acoustic Recording tags (DTAGS)",
     "crumbs": [
-      "Home"
+      "Hardware"
     ]
   },
   {
-    "objectID": "index.html#location",
-    "href": "index.html#location",
-    "title": "Marine Mammal Passive Acoustic Monitoring, NWFSC",
-    "section": "Location",
-    "text": "Location\n2725 Montlake Blvd. East, Seattle, WA 98112",
+    "objectID": "content/Hardware.html#other-instruments",
+    "href": "content/Hardware.html#other-instruments",
+    "title": "Hardware",
+    "section": "Other Instruments",
+    "text": "Other Instruments\nTowed Arrays\nC-PODS\nSonobuoys\nDipping hydrophones",
     "crumbs": [
-      "Home"
-    ]
-  },
-  {
-    "objectID": "index.html#additional-nmfs-pam-lab-manuals",
-    "href": "index.html#additional-nmfs-pam-lab-manuals",
-    "title": "Marine Mammal Passive Acoustic Monitoring, NWFSC",
-    "section": "Additional NMFS PAM Lab Manuals",
-    "text": "Additional NMFS PAM Lab Manuals\n\nPIFSC: Pacific Islands Fisheries\nSWFSC: Southwest Fisheries)\nAFSC: Alaska Fisheries\nSEFSC: Southeast Fisheries\nNEFSC: Northeast Fisheries\nNational PAM Network",
-    "crumbs": [
-      "Home"
+      "Hardware"
     ]
   },
   {
@@ -102,94 +92,43 @@
     ]
   },
   {
-    "objectID": "content/Hardware.html#moored-recorders",
-    "href": "content/Hardware.html#moored-recorders",
-    "title": "Hardware",
-    "section": "Moored Recorders",
-    "text": "Moored Recorders\nPALs\nEARs\nSoundTraps",
-    "crumbs": [
-      "Hardware"
-    ]
-  },
-  {
-    "objectID": "content/Hardware.html#biologging-tags",
-    "href": "content/Hardware.html#biologging-tags",
-    "title": "Hardware",
-    "section": "Biologging Tags",
-    "text": "Biologging Tags\nDigital Acoustic Recording tags (DTAGS)",
-    "crumbs": [
-      "Hardware"
-    ]
-  },
-  {
-    "objectID": "content/Hardware.html#other-instruments",
-    "href": "content/Hardware.html#other-instruments",
-    "title": "Hardware",
-    "section": "Other Instruments",
-    "text": "Other Instruments\nTowed Arrays\nC-PODS\nSonobuoys\nDipping hydrophones",
-    "crumbs": [
-      "Hardware"
-    ]
-  },
-  {
-    "objectID": "content/Data-Species.html",
-    "href": "content/Data-Species.html",
-    "title": "Species Information",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Marine Mammal Passive Acoustic Monitoring, NWFSC",
     "section": "",
-    "text": "Focus Species\n\nSouthern resident killer whale\n\n\n\nOther Species (Pacific Northwest Region)\n\n\n\nCommon Name\nScientific Name\n\n\n\n\nKiller whale\nOrcinus orca\n\n\nSperm whale\nPhyseter macrocephalus\n\n\nHumpback whale\nMegaptera novaeangliae\n\n\nGray whale\nEschrichtius robustus",
+    "text": "The Marine Mammal Ecology Team conducts research using passive acoustic monitoring to support NOAA’s management needs. We are part of the Conservation Biology Division at NOAA’s Northwest Fisheries Science Center in Seattle, Washington.\nThis lab manual serves as a handbook for the information to support our science.\n\n\n\n\nSouthern resident killer whales with R/V Shimada. Photo by Candice Emmons taken under Federal Research Permit",
     "crumbs": [
-      "Data Management",
-      "Species Information"
+      "Home"
     ]
   },
   {
-    "objectID": "content/Publications.html",
-    "href": "content/Publications.html",
-    "title": "Publications & Reports",
-    "section": "",
-    "text": "Tennessen, J. B., Holt, M. M., Wright, B. M., Hanson, M. B., Emmons, C. K., Giles, D. A., … & Deecke, V. B. (2024). Males miss and females forgo: Auditory masking from vessel noise impairs foraging efficiency and success in killer whales. Global Change Biology, 30(9), e17490.\nTennessen, J. B., Holt, M. M., Wright, B. M., Hanson, M. B., Emmons, C. K., Giles, D. A., … & Deecke, V. B. (2023). Divergent foraging strategies between populations of sympatric matrilineal killer whales. Behavioral Ecology, 34(3), 373-386.\nEmmons, C. K., Hanson, M. B., & Lammers, M. O. (2021). Passive acoustic monitoring reveals spatiotemporal segregation of two fish-eating killer whale Orcinus orca populations in proposed critical habitat. Endangered Species Research, 44, 253-261.\nHolt, M. M., Tennessen, J. B., Ward, E. J., Hanson, M. B., Emmons, C. K., Giles, D. A., & Hogan, J. T. (2021). Effects of vessel distance and sex on the behavior of endangered killer whales. Frontiers in Marine Science, 7, 582182.\nHolt, M. M., Tennessen, J. B., Hanson, M. B., Emmons, C. K., Giles, D. A., Hogan, J. T., & Ford, M. J. (2021). Vessels and their sounds reduce prey capture effort by endangered killer whales (Orcinus orca). Marine Environmental Research, 170, 105429.\nEmmons, C. K., Hanson, M. B., & Lammers, M. O. (2020). Seasonal Occurrence of Cetaceans along the Washington Coast from Passive Acoustic Monitoring. Marine Fisheries Review, 82.\nEmmons, C. K., Hanson, M. B., & Lammers, M. O. (2019). Monitoring the occurrence of Southern resident killer whales, other marine mammals, and anthropogenic sound in the Pacific Northwest. Prepared for: US Navy, US Pacific Fleet, Pearl Harbor, HI. Prepared by: National Oceanic and Atmospheric Administration, Northwest Fisheries Science Center under MIPR, (00070).\nHolt, M. M., Hanson, M. B., Emmons, C. K., Haas, D. K., Giles, D. A., & Hogan, J. T. (2019). Sounds associated with foraging and prey capture in individual fish-eating killer whales, Orcinus orca. The Journal of the Acoustical Society of America, 146(5), 3475-3486.\nTennessen, J. B., Holt, M. M., Hanson, M. B., Emmons, C. K., Giles, D. A., & Hogan, J. T. (2019). Kinematic signatures of prey capture from archival tags reveal sex differences in killer whale foraging activity. Journal of Experimental Biology, 222(3), jeb191874.\nTennessen, J. B., Holt, M. M., Ward, E. J., Hanson, M. B., Emmons, C. K., Giles, D. A., & Hogan, J. T. (2019). Hidden Markov models reveal temporal patterns and sex differences in killer whale behavior. Scientific reports, 9(1), 14951.\nHolt, M. M., Hanson, M. B., Giles, D. A., Emmons, C. K., & Hogan, J. T. (2017). Noise levels received by endangered killer whales Orcinus orca before and after implementation of vessel regulations. Endangered Species Research, 34, 15-26.\nHoughton, J., Holt, M. M., Giles, D. A., Hanson, M. B., Emmons, C. K., Hogan, J. T., … & VanBlaricom, G. R. (2015). The relationship between vessel traffic and noise levels received by killer whales (Orcinus orca). PloS one, 10(12), e0140119.\nHanson, M. B., Emmons, C. K., Ward, E. J., Nystuen, J. A., & Lammers, M. O. (2013). Assessing the coastal occurrence of endangered killer whales using autonomous passive acoustic recorders. The Journal of the Acoustical Society of America, 134(5), 3486-3495.\nHolt, M. M., Noren, D. P., & Emmons, C. K. (2013). An investigation of sound use and behavior in a killer whale (Orcinus orca) population to inform passive acoustic monitoring studies. Marine Mammal Science, 29(2).\nHolt, M. M., Noren, D. P., & Emmons, C. K. (2011). Effects of noise levels and call types on the source levels of killer whale calls. The Journal of the Acoustical Society of America, 130(5), 3100-3106.\nHolt, M. M., Noren, D. P., Veirs, V., Emmons, C. K., & Veirs, S. (2009). Speaking up: Killer whales (Orcinus orca) increase their call amplitude in response to vessel noise. The Journal of the Acoustical Society of America, 125(1), EL27-EL32.\nHolt, M. M., Veirs, V. A. L., & Veirs, S. (2008). Noise effects on the call amplitude of southern resident killer whales (Orcinus orca). Bioacoustics, 17(1-3), 164-166.",
+    "objectID": "index.html#team-members",
+    "href": "index.html#team-members",
+    "title": "Marine Mammal Passive Acoustic Monitoring, NWFSC",
+    "section": "Team Members",
+    "text": "Team Members\nBrad Hanson, MMET Team Leader, Wildlife Biologist\nMarla Holt, Research Wildlife Biologist\nCandice Emmons, Research fish Biologist\nArial Brewer, Bioacoustician and Data Manager",
     "crumbs": [
-      "Publications"
+      "Home"
     ]
   },
   {
-    "objectID": "content/FieldMethods.html",
-    "href": "content/FieldMethods.html",
-    "title": "Field Methods",
-    "section": "",
-    "text": "We use passive acoustic monitoring (PAM) to study cetacean presence and anthropogenic noise throughout the Salish Sea and Coastal regions of the Northwest.\nCharacterizing Soundscapes\nSRKW Noise and Disturbance",
+    "objectID": "index.html#location",
+    "href": "index.html#location",
+    "title": "Marine Mammal Passive Acoustic Monitoring, NWFSC",
+    "section": "Location",
+    "text": "Location\n2725 Montlake Blvd. East, Seattle, WA 98112",
     "crumbs": [
-      "Field Methods"
+      "Home"
     ]
   },
   {
-    "objectID": "content/FieldMethods.html#passive-acoustic-monitoring",
-    "href": "content/FieldMethods.html#passive-acoustic-monitoring",
-    "title": "Field Methods",
-    "section": "",
-    "text": "We use passive acoustic monitoring (PAM) to study cetacean presence and anthropogenic noise throughout the Salish Sea and Coastal regions of the Northwest.\nCharacterizing Soundscapes\nSRKW Noise and Disturbance",
+    "objectID": "index.html#additional-nmfs-pam-lab-manuals",
+    "href": "index.html#additional-nmfs-pam-lab-manuals",
+    "title": "Marine Mammal Passive Acoustic Monitoring, NWFSC",
+    "section": "Additional NMFS PAM Lab Manuals",
+    "text": "Additional NMFS PAM Lab Manuals\n\nPIFSC: Pacific Islands Fisheries\nSWFSC: Southwest Fisheries)\nAFSC: Alaska Fisheries\nSEFSC: Southeast Fisheries\nNEFSC: Northeast Fisheries\nNational PAM Network",
     "crumbs": [
-      "Field Methods"
-    ]
-  },
-  {
-    "objectID": "content/FieldMethods.html#biologging-tags",
-    "href": "content/FieldMethods.html#biologging-tags",
-    "title": "Field Methods",
-    "section": "Biologging Tags",
-    "text": "Biologging Tags\nWe use non-invasive, digital acoustic recording tags (DTAGS) to examine sound exposure, sound use, and behavior of SRKW.\nDTAG Research",
-    "crumbs": [
-      "Field Methods"
-    ]
-  },
-  {
-    "objectID": "content/FieldMethods.html#field-surveys",
-    "href": "content/FieldMethods.html#field-surveys",
-    "title": "Field Methods",
-    "section": "Field Surveys",
-    "text": "Field Surveys\nWe conduct field surveys to investigate the many facets of SRKW health and habitat use, including prey and fecal sample collection, acoustic recordings, photo identification, health assessments, water sample collection, and more!\nPacific Orcinus Distribution Survey (PODS) (cruise report coming soon)\nPODS lite",
-    "crumbs": [
-      "Field Methods"
+      "Home"
     ]
   },
   {
@@ -230,6 +169,67 @@
     "text": "Organization\n\nKeep lab tidy and clean. If you start on a project and intend to keep working on it over a few days (i.e. building equipment) please clean up after you have completed work.\nIf you notice that something is running low please contact Marla Holt or Candice Emmons so that they may order more supplies.",
     "crumbs": [
       "Lab Management"
+    ]
+  },
+  {
+    "objectID": "content/Publications.html",
+    "href": "content/Publications.html",
+    "title": "Publications & Reports",
+    "section": "",
+    "text": "Emmons, C.K., Hanson, M.B., Holt, M.M., Noren, D.P., & Serna, M. (2026). PODS: Two Decades of Ship-Based Surveys Inform Expansion of Critical Habitat Designation for Southern Resident Killer Whales (Orcinus orca ater). U.S.Department of Commerce, NOAA Technical Memorandum NMFS-NWFSC-208\nTennessen, J. B., Holt, M. M., Wright, B. M., Hanson, M. B., Emmons, C. K., Giles, D. A., … & Deecke, V. B. (2024). Males miss and females forgo: Auditory masking from vessel noise impairs foraging efficiency and success in killer whales. Global Change Biology, 30(9), e17490.\nTennessen, J. B., Holt, M. M., Wright, B. M., Hanson, M. B., Emmons, C. K., Giles, D. A., … & Deecke, V. B. (2023). Divergent foraging strategies between populations of sympatric matrilineal killer whales. Behavioral Ecology, 34(3), 373-386.\nEmmons, C. K., Hanson, M. B., & Lammers, M. O. (2021). Passive acoustic monitoring reveals spatiotemporal segregation of two fish-eating killer whale Orcinus orca populations in proposed critical habitat. Endangered Species Research, 44, 253-261.\nHolt, M. M., Tennessen, J. B., Ward, E. J., Hanson, M. B., Emmons, C. K., Giles, D. A., & Hogan, J. T. (2021). Effects of vessel distance and sex on the behavior of endangered killer whales. Frontiers in Marine Science, 7, 582182.\nHolt, M. M., Tennessen, J. B., Hanson, M. B., Emmons, C. K., Giles, D. A., Hogan, J. T., & Ford, M. J. (2021). Vessels and their sounds reduce prey capture effort by endangered killer whales (Orcinus orca). Marine Environmental Research, 170, 105429.\nEmmons, C. K., Hanson, M. B., & Lammers, M. O. (2020). Seasonal Occurrence of Cetaceans along the Washington Coast from Passive Acoustic Monitoring. Marine Fisheries Review, 82.\nEmmons, C. K., Hanson, M. B., & Lammers, M. O. (2019). Monitoring the occurrence of Southern resident killer whales, other marine mammals, and anthropogenic sound in the Pacific Northwest. Prepared for: US Navy, US Pacific Fleet, Pearl Harbor, HI. Prepared by: National Oceanic and Atmospheric Administration, Northwest Fisheries Science Center under MIPR, (00070).\nHolt, M. M., Hanson, M. B., Emmons, C. K., Haas, D. K., Giles, D. A., & Hogan, J. T. (2019). Sounds associated with foraging and prey capture in individual fish-eating killer whales, Orcinus orca. The Journal of the Acoustical Society of America, 146(5), 3475-3486.\nTennessen, J. B., Holt, M. M., Hanson, M. B., Emmons, C. K., Giles, D. A., & Hogan, J. T. (2019). Kinematic signatures of prey capture from archival tags reveal sex differences in killer whale foraging activity. Journal of Experimental Biology, 222(3), jeb191874.\nTennessen, J. B., Holt, M. M., Ward, E. J., Hanson, M. B., Emmons, C. K., Giles, D. A., & Hogan, J. T. (2019). Hidden Markov models reveal temporal patterns and sex differences in killer whale behavior. Scientific reports, 9(1), 14951.\nHolt, M. M., Hanson, M. B., Giles, D. A., Emmons, C. K., & Hogan, J. T. (2017). Noise levels received by endangered killer whales Orcinus orca before and after implementation of vessel regulations. Endangered Species Research, 34, 15-26.\nHoughton, J., Holt, M. M., Giles, D. A., Hanson, M. B., Emmons, C. K., Hogan, J. T., … & VanBlaricom, G. R. (2015). The relationship between vessel traffic and noise levels received by killer whales (Orcinus orca). PloS one, 10(12), e0140119.\nHanson, M. B., Emmons, C. K., Ward, E. J., Nystuen, J. A., & Lammers, M. O. (2013). Assessing the coastal occurrence of endangered killer whales using autonomous passive acoustic recorders. The Journal of the Acoustical Society of America, 134(5), 3486-3495.\nHolt, M. M., Noren, D. P., & Emmons, C. K. (2013). An investigation of sound use and behavior in a killer whale (Orcinus orca) population to inform passive acoustic monitoring studies. Marine Mammal Science, 29(2).\nHolt, M. M., Noren, D. P., & Emmons, C. K. (2011). Effects of noise levels and call types on the source levels of killer whale calls. The Journal of the Acoustical Society of America, 130(5), 3100-3106.\nHolt, M. M., Noren, D. P., Veirs, V., Emmons, C. K., & Veirs, S. (2009). Speaking up: Killer whales (Orcinus orca) increase their call amplitude in response to vessel noise. The Journal of the Acoustical Society of America, 125(1), EL27-EL32.\nHolt, M. M., Veirs, V. A. L., & Veirs, S. (2008). Noise effects on the call amplitude of southern resident killer whales (Orcinus orca). Bioacoustics, 17(1-3), 164-166.",
+    "crumbs": [
+      "Publications"
+    ]
+  },
+  {
+    "objectID": "content/Data-Species.html",
+    "href": "content/Data-Species.html",
+    "title": "Species Information",
+    "section": "",
+    "text": "Focus Species\n\nSouthern resident killer whale\n\n\n\nOther Species (Pacific Northwest Region)\n\n\n\nCommon Name\nScientific Name\n\n\n\n\nKiller whale\nOrcinus orca\n\n\nSperm whale\nPhyseter macrocephalus\n\n\nHumpback whale\nMegaptera novaeangliae\n\n\nGray whale\nEschrichtius robustus",
+    "crumbs": [
+      "Data Management",
+      "Species Information"
+    ]
+  },
+  {
+    "objectID": "content/FieldMethods.html",
+    "href": "content/FieldMethods.html",
+    "title": "Field Methods",
+    "section": "",
+    "text": "We use passive acoustic monitoring (PAM) to study cetacean presence and anthropogenic noise throughout the Salish Sea and Coastal regions of the Northwest.\nCharacterizing Soundscapes\nSRKW Noise and Disturbance",
+    "crumbs": [
+      "Field Methods"
+    ]
+  },
+  {
+    "objectID": "content/FieldMethods.html#passive-acoustic-monitoring",
+    "href": "content/FieldMethods.html#passive-acoustic-monitoring",
+    "title": "Field Methods",
+    "section": "",
+    "text": "We use passive acoustic monitoring (PAM) to study cetacean presence and anthropogenic noise throughout the Salish Sea and Coastal regions of the Northwest.\nCharacterizing Soundscapes\nSRKW Noise and Disturbance",
+    "crumbs": [
+      "Field Methods"
+    ]
+  },
+  {
+    "objectID": "content/FieldMethods.html#biologging-tags",
+    "href": "content/FieldMethods.html#biologging-tags",
+    "title": "Field Methods",
+    "section": "Biologging Tags",
+    "text": "Biologging Tags\nWe use non-invasive, digital acoustic recording tags (DTAGS) to examine sound exposure, sound use, and behavior of SRKW.\nDTAG Research",
+    "crumbs": [
+      "Field Methods"
+    ]
+  },
+  {
+    "objectID": "content/FieldMethods.html#field-surveys",
+    "href": "content/FieldMethods.html#field-surveys",
+    "title": "Field Methods",
+    "section": "Field Surveys",
+    "text": "Field Surveys\nWe conduct field surveys to investigate the many facets of SRKW health and habitat use, including prey and fecal sample collection, acoustic recordings, photo identification, health assessments, water sample collection, and more!\nPacific Orcinus Distribution Survey (PODS)\nPODS lite",
+    "crumbs": [
+      "Field Methods"
     ]
   }
 ]
