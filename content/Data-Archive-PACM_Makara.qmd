@@ -4,4 +4,4 @@ title: PACM/Makara
 
 ## Accessing Data
 
-All Salish Sea and Coastal marine mammal PAM deployments are archived and available on the [Passive Acoustic Cetacean Map](https://apps-nefsc.fisheries.noaa.gov/pacm/#/) (PACM).
+All Salish Sea and Coastal marine mammal PAM deployments are archived and available on the [Passive Acoustic Cetacean Map](https://passiveacoustics.fisheries.noaa.gov/pacm/#/deployments) (PACM).
